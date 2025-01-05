@@ -1,0 +1,903 @@
+2024-12-29 23:31:25.231986 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2024-12-29 23:35:22.657714 INFO pc_marc: start detected
+2024-12-29 23:35:22.661131 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-29 23:47:30.478813 INFO pc_marc: start detected
+2024-12-29 23:47:30.484139 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-29 23:48:32.726443 INFO trockner: start detected
+2024-12-29 23:48:32.730621 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2024-12-29 23:50:49.817417 INFO spulmaschine: App spulmaschine initialized
+2024-12-29 23:50:49.865375 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2024-12-29 23:50:49.883271 INFO waschmaschine: App waschmaschine initialized
+2024-12-29 23:50:49.900783 INFO trockner_oma: App trockner_oma initialized
+2024-12-29 23:50:49.939965 INFO trockner: App trockner initialized
+2024-12-29 23:50:49.998069 INFO pc_cassian: App pc_cassian initialized
+2024-12-29 23:50:50.068182 INFO pc_doran: App pc_doran initialized
+2024-12-29 23:50:50.349632 INFO pc_kilian: App pc_kilian initialized
+2024-12-29 23:50:50.367568 INFO pc_sandra: App pc_sandra initialized
+2024-12-29 23:50:50.380512 INFO pc_marc: App pc_marc initialized
+2024-12-29 23:50:50.399302 INFO beamer: App beamer initialized
+2024-12-29 23:50:50.413636 INFO 3d_drucker: App 3d_drucker initialized
+2024-12-29 23:52:49.904392 INFO waschmaschine: start detected
+2024-12-29 23:52:49.914767 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2024-12-29 23:52:49.987435 INFO trockner: start detected
+2024-12-29 23:52:49.999210 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2024-12-29 23:52:50.405126 INFO pc_marc: start detected
+2024-12-29 23:52:50.407634 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-30 00:02:20.437615 INFO waschmaschine: App waschmaschine initialized
+2024-12-30 00:04:20.489999 INFO waschmaschine: start detected
+2024-12-30 00:04:20.502320 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2024-12-30 00:10:47.912176 INFO pc_marc: stop detected
+2024-12-30 00:10:47.923446 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-30 01:20:58.681816 INFO pc_kilian: start detected
+2024-12-30 01:20:58.697985 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2024-12-30 01:33:18.795176 INFO pc_kilian: stop detected
+2024-12-30 01:33:18.805045 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2024-12-30 02:18:22.841589 INFO trockner: stop detected
+2024-12-30 02:18:22.865995 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2024-12-30 02:18:34.427266 INFO waschmaschine: stop detected
+2024-12-30 02:18:34.446984 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2024-12-30 03:13:41.733139 INFO trockner: start detected
+2024-12-30 03:13:41.761829 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2024-12-30 06:11:39.561602 INFO trockner: stop detected
+2024-12-30 06:11:39.608721 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2024-12-30 10:35:53.837301 INFO waschmaschine_oma: start detected
+2024-12-30 12:10:09.314462 INFO waschmaschine_oma: stop detected
+2024-12-30 12:10:09.317602 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2024-12-30 12:27:37.815016 INFO trockner_oma: start detected
+2024-12-30 14:07:14.148663 INFO trockner_oma: stop detected
+2024-12-30 14:07:14.153696 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2024-12-30 16:11:18.200281 INFO pc_marc: start detected
+2024-12-30 16:11:18.205054 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-30 16:11:50.409089 INFO pc_sandra: start detected
+2024-12-30 16:11:50.410443 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2024-12-30 16:25:55.241206 INFO pc_cassian: start detected
+2024-12-30 16:25:55.244552 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2024-12-30 16:27:43.505470 INFO pc_marc: stop detected
+2024-12-30 16:27:43.508124 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-30 16:41:23.865073 INFO pc_marc: start detected
+2024-12-30 16:41:23.867716 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-30 16:54:15.880643 INFO pc_marc: stop detected
+2024-12-30 16:54:15.883687 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-30 17:35:52.545015 INFO pc_sandra: stop detected
+2024-12-30 17:35:52.549182 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2024-12-30 18:10:46.603192 INFO pc_marc: start detected
+2024-12-30 18:10:46.606213 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-30 18:28:27.333377 INFO pc_marc: stop detected
+2024-12-30 18:28:27.339517 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-30 18:34:46.180822 INFO pc_cassian: stop detected
+2024-12-30 18:34:46.190386 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2024-12-30 18:37:55.196673 INFO pc_cassian: start detected
+2024-12-30 18:37:55.198020 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2024-12-30 18:37:58.682902 INFO pc_marc: start detected
+2024-12-30 18:37:58.684427 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-30 18:57:38.730721 INFO pc_marc: stop detected
+2024-12-30 18:57:38.735372 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-30 18:59:55.002837 INFO spulmaschine: start detected
+2024-12-30 18:59:55.004131 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2024-12-30 21:51:27.292378 INFO pc_kilian: start detected
+2024-12-30 21:51:27.294370 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2024-12-30 22:01:06.392980 INFO spulmaschine: stop detected
+2024-12-30 22:01:06.406802 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2024-12-30 23:45:09.119634 INFO pc_cassian: stop detected
+2024-12-30 23:45:09.125448 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2024-12-31 00:12:06.626102 INFO pc_sandra: start detected
+2024-12-31 00:12:06.627717 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2024-12-31 00:12:23.739962 INFO pc_marc: start detected
+2024-12-31 00:12:23.742110 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2024-12-31 00:40:36.249952 INFO pc_kilian: stop detected
+2024-12-31 00:40:36.252761 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2024-12-31 03:31:07.783151 INFO pc_marc: stop detected
+2024-12-31 03:31:07.790992 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2024-12-31 03:31:12.115186 INFO pc_sandra: stop detected
+2024-12-31 03:31:12.121598 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2024-12-31 14:56:49.828262 INFO spulmaschine: start detected
+2024-12-31 14:56:49.830747 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2024-12-31 17:27:19.163878 INFO spulmaschine: stop detected
+2024-12-31 17:27:19.175832 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2024-12-31 22:54:41.512574 INFO spulmaschine: start detected
+2024-12-31 22:54:41.515074 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-01 01:25:16.719709 INFO spulmaschine: stop detected
+2025-01-01 01:25:16.729402 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-01 12:00:38.238184 INFO waschmaschine_oma: start detected
+2025-01-01 13:16:12.046813 INFO pc_sandra: start detected
+2025-01-01 13:16:12.062572 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-01 13:16:34.899073 INFO pc_marc: start detected
+2025-01-01 13:16:34.901168 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-01 13:21:28.891768 INFO waschmaschine_oma: stop detected
+2025-01-01 13:21:28.894500 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-01 13:27:11.170898 INFO trockner_oma: start detected
+2025-01-01 14:59:30.695447 INFO trockner_oma: stop detected
+2025-01-01 14:59:30.703326 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-01 16:41:44.911974 INFO pc_cassian: start detected
+2025-01-01 16:41:44.914548 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-01 18:50:03.077358 INFO pc_sandra: stop detected
+2025-01-01 18:50:03.085962 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-01 20:11:20.129899 INFO pc_marc: stop detected
+2025-01-01 20:11:20.499689 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-01 23:03:27.429913 INFO spulmaschine: start detected
+2025-01-01 23:03:27.432844 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-01 23:52:16.102988 INFO pc_cassian: stop detected
+2025-01-01 23:52:16.135908 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-02 00:35:02.395438 INFO waschmaschine: start detected
+2025-01-02 00:35:02.399410 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-02 01:01:08.623229 INFO spulmaschine: stop detected
+2025-01-02 01:01:08.638052 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-02 01:03:21.209141 INFO pc_kilian: start detected
+2025-01-02 01:03:21.211414 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-02 01:48:42.406174 INFO pc_kilian: stop detected
+2025-01-02 01:48:42.409305 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-02 03:02:57.274754 INFO waschmaschine: stop detected
+2025-01-02 03:02:57.286175 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-02 03:56:30.762478 INFO trockner: start detected
+2025-01-02 03:56:30.764324 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-02 07:42:12.952585 INFO trockner: stop detected
+2025-01-02 07:42:12.960146 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-02 07:57:16.451464 INFO trockner: start detected
+2025-01-02 07:57:16.453141 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-02 08:02:16.808135 INFO trockner: stop detected
+2025-01-02 08:02:16.812682 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-02 13:39:34.814347 INFO pc_marc: start detected
+2025-01-02 13:39:35.635491 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-02 14:47:21.804290 INFO pc_sandra: start detected
+2025-01-02 14:47:21.807008 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-02 14:58:14.604109 INFO pc_cassian: start detected
+2025-01-02 14:58:14.801951 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-02 18:08:06.240822 INFO spulmaschine: App spulmaschine initialized
+2025-01-02 18:08:06.864056 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-02 18:08:06.875122 INFO waschmaschine: App waschmaschine initialized
+2025-01-02 18:08:06.885285 INFO trockner_oma: App trockner_oma initialized
+2025-01-02 18:08:06.895383 INFO trockner: App trockner initialized
+2025-01-02 18:08:06.908069 INFO pc_cassian: App pc_cassian initialized
+2025-01-02 18:08:06.921793 INFO pc_doran: App pc_doran initialized
+2025-01-02 18:08:06.930405 INFO pc_kilian: App pc_kilian initialized
+2025-01-02 18:08:06.939408 INFO pc_sandra: App pc_sandra initialized
+2025-01-02 18:08:06.950267 INFO pc_marc: App pc_marc initialized
+2025-01-02 18:08:06.961190 INFO beamer: App beamer initialized
+2025-01-02 18:08:06.970016 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-02 18:10:07.430195 INFO pc_cassian: start detected
+2025-01-02 18:10:07.431076 INFO pc_marc: start detected
+2025-01-02 18:10:07.432796 INFO pc_sandra: start detected
+2025-01-02 18:10:07.436679 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-02 18:10:07.437699 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-02 18:10:07.442262 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-02 18:10:11.567127 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Nur ein Test
+2025-01-02 18:12:45.862820 INFO notifyer: App notifyer initialized
+2025-01-02 18:47:43.426290 INFO notifyer: App notifyer initialized
+2025-01-02 18:47:43.456234 WARNING notifyer: notifyer: Entity input_boolean.spulmaschine not found in namespace default
+2025-01-02 18:47:43.564285 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-02 18:47:43.565614 WARNING waschmaschine_oma: waschmaschine_oma: Entity input_boolean.waschmaschine_oma not found in namespace default
+2025-01-02 18:47:43.730200 INFO waschmaschine: App waschmaschine initialized
+2025-01-02 18:47:43.733564 WARNING waschmaschine: waschmaschine: Entity input_boolean.waschmaschine not found in namespace default
+2025-01-02 18:47:43.771253 INFO trockner_oma: App trockner_oma initialized
+2025-01-02 18:47:43.771738 WARNING trockner_oma: trockner_oma: Entity input_boolean.trockner_oma not found in namespace default
+2025-01-02 18:47:43.798637 INFO trockner: App trockner initialized
+2025-01-02 18:47:43.799127 WARNING trockner: trockner: Entity input_boolean.trockner not found in namespace default
+2025-01-02 18:47:43.833348 INFO pc_cassian: App pc_cassian initialized
+2025-01-02 18:47:43.835992 WARNING pc_cassian: pc_cassian: Entity input_boolean.pc_cassian not found in namespace default
+2025-01-02 18:47:44.372442 INFO pc_doran: App pc_doran initialized
+2025-01-02 18:47:44.373206 WARNING pc_doran: pc_doran: Entity input_boolean.pc_doran not found in namespace default
+2025-01-02 18:47:44.394131 INFO pc_kilian: App pc_kilian initialized
+2025-01-02 18:47:44.395010 WARNING pc_kilian: pc_kilian: Entity input_boolean.pc_kilian not found in namespace default
+2025-01-02 18:47:44.430312 INFO pc_sandra: App pc_sandra initialized
+2025-01-02 18:47:44.430908 WARNING pc_sandra: pc_sandra: Entity input_boolean.pc_sandra not found in namespace default
+2025-01-02 18:47:44.446318 INFO pc_marc: App pc_marc initialized
+2025-01-02 18:47:44.447004 WARNING pc_marc: pc_marc: Entity input_boolean.pc_marc not found in namespace default
+2025-01-02 18:47:44.457358 INFO beamer: App beamer initialized
+2025-01-02 18:47:44.457758 WARNING beamer: beamer: Entity input_boolean.beamer not found in namespace default
+2025-01-02 18:47:44.468217 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-02 18:47:44.468635 WARNING 3d_drucker: 3d_drucker: Entity input_boolean.3d_drucker not found in namespace default
+2025-01-02 18:49:43.866236 INFO pc_cassian: start detected
+2025-01-02 18:49:44.955074 INFO pc_sandra: start detected
+2025-01-02 18:49:52.833444 INFO pc_marc: start detected
+2025-01-02 18:59:43.858606 INFO notifyer: App notifyer initialized
+2025-01-02 19:56:18.851487 INFO notifyer: App notifyer initialized
+2025-01-02 19:56:18.862226 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-02 19:56:18.871374 INFO waschmaschine: App waschmaschine initialized
+2025-01-02 19:56:18.880545 INFO trockner_oma: App trockner_oma initialized
+2025-01-02 19:56:18.892332 INFO trockner: App trockner initialized
+2025-01-02 19:56:18.911604 INFO pc_cassian: App pc_cassian initialized
+2025-01-02 19:56:18.923693 INFO pc_doran: App pc_doran initialized
+2025-01-02 19:56:18.933169 INFO pc_kilian: App pc_kilian initialized
+2025-01-02 19:56:18.943417 INFO pc_sandra: App pc_sandra initialized
+2025-01-02 19:56:18.958160 INFO pc_marc: App pc_marc initialized
+2025-01-02 19:56:19.083674 INFO beamer: App beamer initialized
+2025-01-02 19:56:19.160900 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-02 19:58:18.927082 INFO pc_cassian: start detected
+2025-01-02 19:58:18.956832 INFO pc_sandra: start detected
+2025-01-02 19:58:19.083820 INFO pc_marc: start detected
+2025-01-02 20:24:18.971092 INFO spulmaschine: App spulmaschine initialized
+2025-01-02 20:30:36.553599 INFO notifyer: here we are
+2025-01-02 20:30:36.555663 INFO notifyer: here we are
+2025-01-02 20:30:36.558954 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:30:36.562060 INFO notifyer: test
+2025-01-02 20:30:36.565072 INFO notifyer: Sending notification to handy_marc with message: Nur ein Test
+2025-01-02 20:33:05.530824 INFO notifyer: here we are
+2025-01-02 20:33:05.531522 INFO notifyer: here we are
+2025-01-02 20:33:05.533353 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:33:05.535305 INFO notifyer: test
+2025-01-02 20:33:05.540435 INFO notifyer: Sending notification to handy_marc with message: Nur ein Test
+2025-01-02 20:39:23.834823 INFO notifyer: here we are
+2025-01-02 20:39:23.835776 INFO notifyer: here we are
+2025-01-02 20:39:23.837973 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:39:23.838943 INFO notifyer: test
+2025-01-02 20:39:23.841339 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 20:39:23.848024 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Nur ein Test
+2025-01-02 20:41:42.484798 INFO notifyer: here we are
+2025-01-02 20:41:42.488418 INFO notifyer: here we are
+2025-01-02 20:41:42.494884 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:41:42.502004 INFO notifyer: test
+2025-01-02 20:41:42.508851 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 20:41:42.510150 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Nur ein Test
+2025-01-02 20:42:11.783334 INFO notifyer: here we are
+2025-01-02 20:42:11.784088 INFO notifyer: here we are
+2025-01-02 20:42:11.789912 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:42:11.790449 INFO notifyer: test
+2025-01-02 20:42:11.799712 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 20:43:01.110160 INFO notifyer: here we are
+2025-01-02 20:43:01.111807 INFO notifyer: here we are
+2025-01-02 20:43:01.113218 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 20:43:01.114318 INFO notifyer: test
+2025-01-02 20:43:01.116340 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 21:21:03.650196 INFO notifyer: here we are
+2025-01-02 21:21:03.651134 INFO notifyer: here we are
+2025-01-02 21:21:03.654992 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 21:21:03.658567 INFO notifyer: test
+2025-01-02 21:21:03.659271 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 21:21:03.665299 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Nur ein Test
+2025-01-02 21:39:46.850435 INFO notifyer: here we are
+2025-01-02 21:39:46.851296 INFO notifyer: here we are
+2025-01-02 21:39:46.855524 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Nur ein Test
+2025-01-02 21:39:46.856158 INFO notifyer: test
+2025-01-02 21:39:46.858736 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Nur ein Test
+2025-01-02 21:39:46.862352 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Nur ein Test
+2025-01-02 21:42:00.717460 INFO notifyer: here we are
+2025-01-02 21:42:00.719640 INFO notifyer: here we are
+2025-01-02 21:42:31.944315 INFO notifyer: here we are
+2025-01-02 21:42:31.945138 INFO notifyer: here we are
+2025-01-02 21:42:31.948618 INFO notifyer: Call out to [ oma] on urgency: 2 with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:42:31.949328 INFO notifyer: test
+2025-01-02 21:42:31.951122 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:42:31.957761 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:43:03.228941 INFO notifyer: here we are
+2025-01-02 21:43:03.230187 INFO notifyer: here we are
+2025-01-02 21:43:03.237124 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:43:03.237869 INFO notifyer: test
+2025-01-02 21:43:03.239521 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:43:03.243556 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:46:11.665550 INFO notifyer: Call out to [ oma] on urgency: 2 with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:46:11.667077 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 21:46:11.667639 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:02:22.948270 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:02:22.949193 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:02:22.949837 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:02:22.950601 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:02:22.952257 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:07:29.949292 INFO notifyer: No target alexa on urgency: 2 found for message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:07:29.950141 INFO notifyer: No target mobile on urgency: 2 found for message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:08:06.877031 INFO pc_kilian: start detected
+2025-01-02 22:08:42.401159 INFO notifyer: No target alexa on urgency: 2 found for message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:08:42.402521 INFO notifyer: No target mobile on urgency: 2 found for message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:08:50.471307 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 2 with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:08:50.471961 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 22:08:50.490256 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Hier ein kleiner Test, gute Nacht. Marc 
+2025-01-02 23:44:01.608046 INFO pc_cassian: stop detected
+2025-01-02 23:47:49.025050 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 2 with message: Hier ein kleiner Test
+2025-01-02 23:47:49.028521 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test
+2025-01-02 23:47:49.031690 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Hier ein kleiner Test
+2025-01-02 23:48:35.324917 INFO spulmaschine: App spulmaschine initialized
+2025-01-02 23:48:35.339481 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-02 23:48:35.349872 INFO waschmaschine: App waschmaschine initialized
+2025-01-02 23:48:35.360763 INFO trockner_oma: App trockner_oma initialized
+2025-01-02 23:48:35.371103 INFO trockner: App trockner initialized
+2025-01-02 23:48:35.383991 INFO pc_cassian: App pc_cassian initialized
+2025-01-02 23:48:35.395820 INFO pc_doran: App pc_doran initialized
+2025-01-02 23:48:35.406044 INFO pc_kilian: App pc_kilian initialized
+2025-01-02 23:48:35.423631 INFO pc_sandra: App pc_sandra initialized
+2025-01-02 23:48:35.442079 INFO pc_marc: App pc_marc initialized
+2025-01-02 23:48:35.659234 INFO beamer: App beamer initialized
+2025-01-02 23:48:35.723469 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-02 23:48:39.804435 INFO spulmaschine: App spulmaschine initialized
+2025-01-02 23:48:39.814870 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-02 23:48:39.828790 INFO waschmaschine: App waschmaschine initialized
+2025-01-02 23:48:39.843747 INFO trockner_oma: App trockner_oma initialized
+2025-01-02 23:48:39.853279 INFO trockner: App trockner initialized
+2025-01-02 23:48:39.867933 INFO pc_cassian: App pc_cassian initialized
+2025-01-02 23:48:39.882732 INFO pc_doran: App pc_doran initialized
+2025-01-02 23:48:39.899467 INFO pc_kilian: App pc_kilian initialized
+2025-01-02 23:48:39.910295 INFO pc_sandra: App pc_sandra initialized
+2025-01-02 23:48:39.919935 INFO pc_marc: App pc_marc initialized
+2025-01-02 23:48:39.931214 INFO beamer: App beamer initialized
+2025-01-02 23:48:39.940964 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-02 23:50:39.915977 INFO pc_kilian: start detected
+2025-01-02 23:50:39.922812 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-02 23:50:39.924115 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-02 23:50:39.928658 INFO pc_sandra: start detected
+2025-01-02 23:50:39.942913 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-02 23:50:39.944379 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-02 23:50:39.954620 INFO pc_marc: start detected
+2025-01-02 23:50:39.964708 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-02 23:50:39.965369 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-03 00:09:36.272344 INFO pc_sandra: stop detected
+2025-01-03 00:09:36.279239 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-03 00:09:36.285648 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-03 00:18:58.876377 INFO spulmaschine: start detected
+2025-01-03 00:18:58.885473 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-03 00:18:58.886667 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-03 01:58:40.047713 INFO pc_kilian: stop detected
+2025-01-03 01:58:40.057385 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 01:58:40.068486 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 02:02:17.847225 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 02:02:17.875460 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 02:02:17.876006 WARNING airexchange_schlafzimmerr_eg: airexchange_schlafzimmerr_eg: Entity input_boolean.airexchange_schlafzimmer_eg not found in namespace default
+2025-01-03 02:02:48.267954 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 02:02:48.298255 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 02:12:50.653965 INFO spulmaschine: stop detected
+2025-01-03 02:12:50.668016 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:50.683559 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:50.690934 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:50.696808 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:50.707591 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:50.716093 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 02:12:58.776951 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 02:12:58.820187 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 57 %
+2025-01-03 02:12:58.847078 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 02:54:22.295490 INFO pc_kilian: start detected
+2025-01-03 02:54:22.364106 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-03 02:54:22.365649 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-03 02:58:27.426990 INFO pc_marc: stop detected
+2025-01-03 02:58:27.436276 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 02:58:27.439797 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 04:03:02.631123 INFO pc_kilian: stop detected
+2025-01-03 04:03:02.644086 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 04:03:02.650351 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 04:08:05.174619 INFO spulmaschine: start detected
+2025-01-03 04:08:05.178488 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-03 04:08:05.179068 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-03 05:47:59.573420 INFO spulmaschine: stop detected
+2025-01-03 05:47:59.598632 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 05:47:59.610087 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 05:47:59.614484 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 05:47:59.621491 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 05:47:59.626557 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 05:47:59.631304 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 07:00:00.082597 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 59 %
+2025-01-03 08:55:01.730842 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 57 %
+2025-01-03 09:44:58.171370 INFO waschmaschine: start detected
+2025-01-03 09:44:58.174828 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-03 09:44:58.176611 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-03 09:44:58.178560 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-03 09:44:58.184943 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 09:44:58.188709 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 09:50:05.592923 INFO spulmaschine: start detected
+2025-01-03 09:50:05.596305 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-03 09:50:05.596921 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-03 11:07:59.822623 INFO waschmaschine: stop detected
+2025-01-03 11:07:59.841241 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:07:59.846218 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:07:59.852675 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:07:59.858880 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:07:59.863508 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:07:59.868400 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 11:41:33.291131 INFO waschmaschine_oma: start detected
+2025-01-03 11:41:33.292275 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-03 11:41:33.292770 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-03 11:49:33.727729 INFO spulmaschine: stop detected
+2025-01-03 11:49:33.737956 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 11:49:33.743000 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 11:49:33.745085 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 11:49:33.751092 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 11:49:33.754063 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 11:49:33.755593 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 12:35:37.946342 INFO spulmaschine: start detected
+2025-01-03 12:35:37.949314 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-03 12:35:37.950348 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-03 13:27:47.790403 INFO waschmaschine_oma: stop detected
+2025-01-03 13:27:47.793205 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-03 13:27:47.797158 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-03 13:27:47.798864 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-03 13:29:52.807484 INFO trockner_oma: start detected
+2025-01-03 13:29:52.808109 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-03 13:29:52.808637 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-03 14:00:23.821016 INFO pc_marc: start detected
+2025-01-03 14:00:23.822466 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-03 14:00:23.822976 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-03 15:04:13.411581 INFO trockner_oma: stop detected
+2025-01-03 15:04:13.426438 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-03 15:04:13.437573 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-03 15:04:13.443917 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-03 15:40:30.180147 INFO pc_cassian: start detected
+2025-01-03 15:40:30.184737 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-03 15:40:30.185393 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-03 15:40:30.191956 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-03 15:44:05.764822 INFO spulmaschine: stop detected
+2025-01-03 15:44:05.776695 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:44:05.797500 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:44:05.799361 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:44:05.804556 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:44:05.812467 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:44:05.817387 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 15:52:20.888446 INFO pc_marc: stop detected
+2025-01-03 15:52:20.893687 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 15:52:20.901863 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 16:05:33.873201 INFO spulmaschine: start detected
+2025-01-03 16:05:33.875179 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-03 16:05:33.876500 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-03 17:07:16.578867 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 48 %
+2025-01-03 17:07:24.891245 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 48 %
+2025-01-03 17:07:31.524043 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 48 %
+2025-01-03 17:10:11.793021 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 48 %
+2025-01-03 17:11:12.553276 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 57 %
+2025-01-03 17:54:56.552818 INFO trockner: start detected
+2025-01-03 17:54:56.555922 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-03 17:54:56.556483 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-03 17:54:56.561454 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-03 17:54:56.565113 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-03 17:54:56.567150 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-03 17:58:11.487800 INFO waschmaschine: start detected
+2025-01-03 17:58:11.493264 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-03 17:58:11.496127 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-03 17:58:11.499911 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-03 17:58:11.506904 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 17:58:11.511753 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 18:05:53.821443 INFO spulmaschine: stop detected
+2025-01-03 18:05:53.837911 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:05:53.861227 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:05:53.866387 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:05:53.873167 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:05:53.879875 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:05:53.884149 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-03 18:34:40.411900 INFO pc_marc: start detected
+2025-01-03 18:34:40.416056 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-03 18:34:40.417412 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-03 19:29:51.834859 INFO pc_marc: stop detected
+2025-01-03 19:29:51.843400 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 19:29:51.848456 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 20:01:23.495997 INFO spulmaschine: App spulmaschine initialized
+2025-01-03 20:01:23.512377 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-03 20:01:23.524808 INFO waschmaschine: App waschmaschine initialized
+2025-01-03 20:01:23.538447 INFO trockner_oma: App trockner_oma initialized
+2025-01-03 20:01:23.554423 INFO trockner: App trockner initialized
+2025-01-03 20:01:23.574946 INFO pc_cassian: App pc_cassian initialized
+2025-01-03 20:01:23.597595 INFO pc_doran: App pc_doran initialized
+2025-01-03 20:01:23.613264 INFO pc_kilian: App pc_kilian initialized
+2025-01-03 20:01:23.623730 INFO pc_sandra: App pc_sandra initialized
+2025-01-03 20:01:23.636404 INFO pc_marc: App pc_marc initialized
+2025-01-03 20:01:23.646313 INFO beamer: App beamer initialized
+2025-01-03 20:01:23.656431 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-03 20:01:23.669676 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 2 with message: Hier ein kleiner Test
+2025-01-03 20:01:23.671793 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test
+2025-01-03 20:01:23.679345 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Hier ein kleiner Test
+2025-01-03 20:01:23.697283 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 20:01:23.726386 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 20:03:44.952160 INFO pc_cassian: start detected
+2025-01-03 20:03:44.954079 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-03 20:03:44.954881 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-03 20:03:44.958488 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-03 20:03:45.047876 INFO trockner: start detected
+2025-01-03 20:03:45.052052 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-03 20:03:45.052902 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-03 20:03:45.057582 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-03 20:03:45.064290 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-03 20:03:45.069171 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-03 20:05:58.364954 INFO waschmaschine: start detected
+2025-01-03 20:05:58.368616 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-03 20:05:58.376865 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-03 20:05:58.387744 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-03 20:05:58.402741 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 20:05:58.410554 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-03 20:19:44.402561 INFO waschmaschine: stop detected
+2025-01-03 20:19:44.422444 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 20:19:44.430072 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 20:19:44.443268 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 20:19:44.447342 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 20:19:44.449428 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 20:19:44.460386 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-03 21:09:07.132632 INFO trockner: stop detected
+2025-01-03 21:09:07.137657 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 21:09:07.143211 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 21:09:07.145180 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 21:09:07.146095 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 21:09:07.147193 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 21:09:07.149353 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-03 22:02:37.125521 INFO spulmaschine: App spulmaschine initialized
+2025-01-03 22:02:37.126903 WARNING spulmaschine: spulmaschine: Entity input_boolean.spulmaschine not found in namespace default
+2025-01-03 22:02:37.144707 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-03 22:02:37.145569 WARNING waschmaschine_oma: waschmaschine_oma: Entity input_boolean.waschmaschine_oma not found in namespace default
+2025-01-03 22:02:37.160091 INFO waschmaschine: App waschmaschine initialized
+2025-01-03 22:02:37.160771 WARNING waschmaschine: waschmaschine: Entity input_boolean.waschmaschine not found in namespace default
+2025-01-03 22:02:37.174528 INFO trockner_oma: App trockner_oma initialized
+2025-01-03 22:02:37.175891 WARNING trockner_oma: trockner_oma: Entity input_boolean.trockner_oma not found in namespace default
+2025-01-03 22:02:37.193109 INFO trockner: App trockner initialized
+2025-01-03 22:02:37.193712 WARNING trockner: trockner: Entity input_boolean.trockner not found in namespace default
+2025-01-03 22:02:37.204635 INFO pc_cassian: App pc_cassian initialized
+2025-01-03 22:02:37.205076 WARNING pc_cassian: pc_cassian: Entity input_boolean.pc_cassian not found in namespace default
+2025-01-03 22:02:37.217883 INFO pc_doran: App pc_doran initialized
+2025-01-03 22:02:37.218233 WARNING pc_doran: pc_doran: Entity input_boolean.pc_doran not found in namespace default
+2025-01-03 22:02:37.233647 INFO pc_kilian: App pc_kilian initialized
+2025-01-03 22:02:37.234074 WARNING pc_kilian: pc_kilian: Entity input_boolean.pc_kilian not found in namespace default
+2025-01-03 22:02:37.246801 INFO pc_sandra: App pc_sandra initialized
+2025-01-03 22:02:37.247333 WARNING pc_sandra: pc_sandra: Entity input_boolean.pc_sandra not found in namespace default
+2025-01-03 22:02:37.260430 INFO pc_marc: App pc_marc initialized
+2025-01-03 22:02:37.261122 WARNING pc_marc: pc_marc: Entity input_boolean.pc_marc not found in namespace default
+2025-01-03 22:02:37.273720 INFO beamer: App beamer initialized
+2025-01-03 22:02:37.274220 WARNING beamer: beamer: Entity input_boolean.beamer not found in namespace default
+2025-01-03 22:02:37.285480 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-03 22:02:37.286060 WARNING 3d_drucker: 3d_drucker: Entity input_boolean.3d_drucker not found in namespace default
+2025-01-03 22:02:37.304828 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 2 with message: Hier ein kleiner Test
+2025-01-03 22:02:37.306415 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Hier ein kleiner Test
+2025-01-03 22:02:37.310601 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Hier ein kleiner Test
+2025-01-03 22:02:37.324909 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 22:02:37.326495 WARNING airexchange_wohnzimmer_eg: airexchange_wohnzimmer_eg: Entity input_boolean.airexchange_wohnzimmer_eg not found in namespace default
+2025-01-03 22:02:37.347664 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 22:02:37.348281 WARNING airexchange_schlafzimmerr_eg: airexchange_schlafzimmerr_eg: Entity input_boolean.airexchange_schlafzimmer_eg not found in namespace default
+2025-01-03 22:02:37.357349 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 59 %
+2025-01-03 22:04:37.218801 INFO pc_cassian: start detected
+2025-01-03 22:04:37.220531 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-03 22:04:37.221490 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-03 22:04:37.224247 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-03 22:04:37.274373 INFO pc_marc: start detected
+2025-01-03 22:04:37.275585 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-03 22:04:37.276142 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-03 22:15:54.759487 INFO pc_marc: stop detected
+2025-01-03 22:15:54.762149 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 22:15:54.766634 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 22:18:56.656996 INFO pc_marc: start detected
+2025-01-03 22:18:56.659668 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-03 22:18:56.661583 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-03 22:29:19.467885 INFO pc_kilian: start detected
+2025-01-03 22:29:19.480155 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-03 22:29:19.480887 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-03 22:41:52.601339 INFO pc_kilian: stop detected
+2025-01-03 22:41:52.604527 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 22:41:52.606742 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-03 22:54:49.761533 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-03 22:54:49.778062 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-03 22:55:28.097366 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-03 22:55:28.097817 WARNING airexchange_buro: airexchange_buro: Entity input_boolean.airexchange_buro not found in namespace default
+2025-01-03 22:55:28.119298 INFO airexchange_buro: AirExchange stopped fan airexchange_buro at rel. humidity of 45 %. Stop threshold: 55 %
+2025-01-03 22:55:28.132092 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-03 22:55:28.132462 WARNING airexchange_yavanna: airexchange_yavanna: Entity input_boolean.airexchange_yavanna not found in namespace default
+2025-01-03 22:55:28.157910 INFO airexchange_yavanna: AirExchange stopped fan airexchange_yavanna at rel. humidity of 44 %. Stop threshold: 55 %
+2025-01-03 22:55:28.167268 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-03 22:55:28.167803 WARNING airexchange_schlafzimmer_og: airexchange_schlafzimmer_og: Entity input_boolean.airexchange_schlafzimmer_og not found in namespace default
+2025-01-03 22:55:28.185809 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-03 22:55:28.186264 WARNING airexchange_kilian: airexchange_kilian: Entity input_boolean.airexchange_kilian not found in namespace default
+2025-01-03 22:55:28.208806 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 52 %. Stop threshold: 55 %
+2025-01-03 23:00:55.195586 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-03 23:00:55.196561 WARNING airexchange_wohnzimmer_og: airexchange_wohnzimmer_og: Entity input_boolean.airexchange_wohnzimmer_og not found in namespace default
+2025-01-03 23:00:55.238590 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 52 %. Stop threshold: 55 %
+2025-01-03 23:25:03.379983 INFO pc_cassian: stop detected
+2025-01-03 23:25:03.386314 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-03 23:25:03.395678 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-03 23:25:03.402047 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-03 23:26:27.560232 INFO notifyer: No target alexa on urgency: 2 found for message: Kilian ist poppel
+2025-01-03 23:26:27.562413 INFO notifyer: No target mobile on urgency: 2 found for message: Kilian ist poppel
+2025-01-03 23:26:49.705134 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 2 with message: Kilian ist poppel
+2025-01-03 23:26:49.705661 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Kilian ist poppel
+2025-01-03 23:26:49.710302 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Kilian ist poppel
+2025-01-03 23:26:49.713672 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Kilian ist poppel
+2025-01-03 23:26:49.719960 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Kilian ist poppel
+2025-01-03 23:26:49.721404 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Kilian ist poppel
+2025-01-03 23:27:06.863917 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 2 with message: Kilian isst popel
+2025-01-03 23:27:06.864895 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Kilian isst popel
+2025-01-03 23:27:06.868637 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Kilian isst popel
+2025-01-03 23:27:06.871631 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Kilian isst popel
+2025-01-03 23:27:06.876675 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Kilian isst popel
+2025-01-03 23:27:06.884441 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Kilian isst popel
+2025-01-03 23:27:26.058491 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 2 with message: Doran gerbt Leder
+2025-01-03 23:27:26.061044 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Doran gerbt Leder
+2025-01-03 23:27:26.064984 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Doran gerbt Leder
+2025-01-03 23:27:26.073789 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Doran gerbt Leder
+2025-01-03 23:27:26.081789 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Doran gerbt Leder
+2025-01-03 23:27:26.092515 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Doran gerbt Leder
+2025-01-03 23:27:38.237113 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 4 with message: Doran gerbt Leder
+2025-01-03 23:27:38.249849 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Doran gerbt Leder
+2025-01-03 23:27:38.251561 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Doran gerbt Leder
+2025-01-03 23:27:38.258470 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Doran gerbt Leder
+2025-01-03 23:27:38.261713 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Doran gerbt Leder
+2025-01-03 23:27:38.265607 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Doran gerbt Leder
+2025-01-03 23:31:30.071595 INFO pc_marc: stop detected
+2025-01-03 23:31:30.074688 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 23:31:30.078606 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-03 23:51:51.445419 INFO beamer: start detected
+2025-01-03 23:51:51.448654 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-03 23:51:51.449595 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-03 23:56:11.078209 INFO pc_cassian: start detected
+2025-01-03 23:56:11.081669 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-03 23:56:11.082829 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-03 23:56:11.086554 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-03 23:59:10.004401 INFO pc_cassian: stop detected
+2025-01-03 23:59:10.013261 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-03 23:59:10.018039 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-03 23:59:10.022832 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-04 00:00:00.109770 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 54 %. Stop threshold: 58 %
+2025-01-04 00:48:27.747257 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-04 00:49:29.048073 INFO pc_kilian: start detected
+2025-01-04 00:49:29.061250 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-04 00:49:29.062881 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-04 01:20:51.208228 INFO pc_kilian: stop detected
+2025-01-04 01:20:51.223488 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-04 01:20:51.226879 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-04 01:43:44.296269 INFO pc_kilian: start detected
+2025-01-04 01:43:44.298992 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-04 01:43:44.302525 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-04 02:38:14.538121 INFO pc_kilian: stop detected
+2025-01-04 02:38:14.546356 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-04 02:38:14.551369 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-04 03:25:14.825851 INFO beamer: stop detected
+2025-01-04 03:25:14.846471 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-04 03:25:14.862439 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-04 04:08:47.946938 INFO spulmaschine: App spulmaschine initialized
+2025-01-04 04:08:47.948889 WARNING spulmaschine: spulmaschine: Entity input_boolean.spulmaschine not found in namespace default
+2025-01-04 04:08:48.018356 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-04 04:08:48.020410 WARNING waschmaschine_oma: waschmaschine_oma: Entity input_boolean.waschmaschine_oma not found in namespace default
+2025-01-04 04:08:48.426901 INFO waschmaschine: App waschmaschine initialized
+2025-01-04 04:08:48.427379 WARNING waschmaschine: waschmaschine: Entity input_boolean.waschmaschine not found in namespace default
+2025-01-04 04:08:48.476096 INFO trockner_oma: App trockner_oma initialized
+2025-01-04 04:08:48.477245 WARNING trockner_oma: trockner_oma: Entity input_boolean.trockner_oma not found in namespace default
+2025-01-04 04:08:48.540336 INFO trockner: App trockner initialized
+2025-01-04 04:08:48.541274 WARNING trockner: trockner: Entity input_boolean.trockner not found in namespace default
+2025-01-04 04:08:48.602488 INFO pc_cassian: App pc_cassian initialized
+2025-01-04 04:08:48.607279 WARNING pc_cassian: pc_cassian: Entity input_boolean.pc_cassian not found in namespace default
+2025-01-04 04:08:48.684663 INFO pc_doran: App pc_doran initialized
+2025-01-04 04:08:48.685147 WARNING pc_doran: pc_doran: Entity input_boolean.pc_doran not found in namespace default
+2025-01-04 04:08:48.775667 INFO pc_kilian: App pc_kilian initialized
+2025-01-04 04:08:48.778345 WARNING pc_kilian: pc_kilian: Entity input_boolean.pc_kilian not found in namespace default
+2025-01-04 04:08:48.821223 INFO pc_sandra: App pc_sandra initialized
+2025-01-04 04:08:48.821701 WARNING pc_sandra: pc_sandra: Entity input_boolean.pc_sandra not found in namespace default
+2025-01-04 04:08:48.845131 INFO pc_marc: App pc_marc initialized
+2025-01-04 04:08:48.845620 WARNING pc_marc: pc_marc: Entity input_boolean.pc_marc not found in namespace default
+2025-01-04 04:08:48.886955 INFO beamer: App beamer initialized
+2025-01-04 04:08:48.887550 WARNING beamer: beamer: Entity input_boolean.beamer not found in namespace default
+2025-01-04 04:08:48.928222 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-04 04:08:48.930422 WARNING 3d_drucker: 3d_drucker: Entity input_boolean.3d_drucker not found in namespace default
+2025-01-04 04:08:49.041959 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-04 04:08:49.042480 WARNING airexchange_wohnzimmer_eg: airexchange_wohnzimmer_eg: Entity input_boolean.airexchange_wohnzimmer_eg not found in namespace default
+2025-01-04 04:08:49.223565 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-04 04:08:49.224213 WARNING airexchange_schlafzimmerr_eg: airexchange_schlafzimmerr_eg: Entity input_boolean.airexchange_schlafzimmer_eg not found in namespace default
+2025-01-04 04:08:49.322411 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-04 04:08:49.323011 WARNING airexchange_buro: airexchange_buro: Entity input_boolean.airexchange_buro not found in namespace default
+2025-01-04 04:08:49.367759 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-04 04:08:49.368372 WARNING airexchange_yavanna: airexchange_yavanna: Entity input_boolean.airexchange_yavanna not found in namespace default
+2025-01-04 04:08:49.409200 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-04 04:08:49.411297 WARNING airexchange_schlafzimmer_og: airexchange_schlafzimmer_og: Entity input_boolean.airexchange_schlafzimmer_og not found in namespace default
+2025-01-04 04:08:49.447111 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-04 04:08:49.447688 WARNING airexchange_kilian: airexchange_kilian: Entity input_boolean.airexchange_kilian not found in namespace default
+2025-01-04 04:08:49.490679 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-04 04:08:49.491738 WARNING airexchange_wohnzimmer_og: airexchange_wohnzimmer_og: Entity input_boolean.airexchange_wohnzimmer_og not found in namespace default
+2025-01-04 04:18:37.170484 INFO spulmaschine: App spulmaschine initialized
+2025-01-04 04:18:37.181584 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-04 04:18:37.192498 INFO waschmaschine: App waschmaschine initialized
+2025-01-04 04:18:37.203727 INFO trockner_oma: App trockner_oma initialized
+2025-01-04 04:18:37.219837 INFO trockner: App trockner initialized
+2025-01-04 04:18:37.230668 INFO pc_cassian: App pc_cassian initialized
+2025-01-04 04:18:37.242506 INFO pc_doran: App pc_doran initialized
+2025-01-04 04:18:37.254451 INFO pc_kilian: App pc_kilian initialized
+2025-01-04 04:18:37.269298 INFO pc_sandra: App pc_sandra initialized
+2025-01-04 04:18:37.283568 INFO pc_marc: App pc_marc initialized
+2025-01-04 04:18:37.303898 INFO beamer: App beamer initialized
+2025-01-04 04:18:37.318933 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-04 04:18:37.342516 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-04 04:18:37.371695 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-04 04:18:37.393190 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-04 04:18:37.421010 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-04 04:18:37.446597 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-04 04:18:37.456022 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 58 %. Start threshold: 60 %
+2025-01-04 04:18:37.464180 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-04 04:18:37.477796 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 57 %. Start threshold: 60 %
+2025-01-04 04:18:37.490314 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-04 04:18:37.500979 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 56 %. Start threshold: 60 %
+2025-01-04 05:05:55.732653 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 53 %. Stop threshold: 55 %
+2025-01-04 07:00:00.028636 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 59 %. Start threshold: 63 %
+2025-01-04 07:23:46.541427 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-04 09:05:50.465189 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 58 %. Stop threshold: 58 %
+2025-01-04 11:00:57.862646 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-04 11:13:19.882424 INFO waschmaschine_oma: start detected
+2025-01-04 11:13:19.883521 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-04 11:13:19.885397 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-04 12:26:19.996679 INFO spulmaschine: start detected
+2025-01-04 12:26:20.003379 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-04 12:26:20.004010 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-04 12:33:39.234601 INFO waschmaschine_oma: stop detected
+2025-01-04 12:33:39.239520 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-04 12:33:39.244230 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-04 12:33:39.251900 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-04 12:41:33.911910 INFO trockner_oma: start detected
+2025-01-04 12:41:33.914503 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-04 12:41:33.915356 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-04 14:15:52.688153 INFO trockner_oma: stop detected
+2025-01-04 14:15:52.695247 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-04 14:15:52.696793 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-04 14:15:52.700921 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-04 14:26:09.148058 INFO spulmaschine: stop detected
+2025-01-04 14:26:09.158181 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 14:26:09.166190 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 14:26:09.169645 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 14:26:09.170942 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 14:26:09.177649 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 14:26:09.181656 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-04 17:07:56.286252 INFO pc_cassian: start detected
+2025-01-04 17:07:56.289845 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-04 17:07:56.290410 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-04 17:07:56.293579 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-04 17:09:01.417421 INFO pc_marc: start detected
+2025-01-04 17:09:01.450578 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-04 17:09:01.451333 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-04 17:10:21.434865 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-04 17:10:21.463217 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-04 17:10:21.480870 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-04 17:10:21.497649 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 59 %. Start threshold: 60 %
+2025-01-04 17:10:21.520445 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-04 17:10:21.522531 WARNING airexchange_cassian: airexchange_cassian: Entity input_boolean.airexchange_cassian not found in namespace default
+2025-01-04 17:10:21.550124 INFO airexchange_cassian: AirExchange stopped fan airexchange_cassian at rel. humidity of 40 %. Stop threshold: 55 %
+2025-01-04 18:38:48.564794 INFO pc_marc: stop detected
+2025-01-04 18:38:48.572705 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-04 18:38:48.577589 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-04 18:41:34.794242 INFO pc_sandra: start detected
+2025-01-04 18:41:34.797593 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-04 18:41:34.798224 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-04 18:41:53.405987 INFO pc_marc: start detected
+2025-01-04 18:41:53.410019 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-04 18:41:53.410621 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-04 18:58:39.664193 INFO 3d_drucker: start detected
+2025-01-04 18:58:39.668475 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t 3d_drucker l��uft
+2025-01-04 18:58:39.668988 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t 3d_drucker l��uft
+2025-01-04 19:37:14.844190 INFO 3d_drucker: stop detected
+2025-01-04 19:37:14.855899 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-04 19:37:14.862510 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-04 20:20:56.770487 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-04 20:20:56.773539 WARNING airexchange_doran: airexchange_doran: Entity input_boolean.airexchange_doran not found in namespace default
+2025-01-04 20:20:56.807842 INFO airexchange_doran: AirExchange stopped fan airexchange_doran at rel. humidity of 42 %. Stop threshold: 55 %
+2025-01-04 20:39:45.964227 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-04 20:48:46.939023 INFO pc_sandra: stop detected
+2025-01-04 20:48:46.942878 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-04 20:48:46.945206 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-04 20:52:49.383497 INFO pc_marc: stop detected
+2025-01-04 20:52:49.390768 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-04 20:52:49.396553 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-04 20:53:27.023299 INFO pc_cassian: stop detected
+2025-01-04 20:53:27.030964 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-04 20:53:27.039511 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-04 20:53:27.046726 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-04 21:51:13.814572 INFO beamer: start detected
+2025-01-04 21:51:13.817897 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-04 21:51:13.818847 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-04 22:18:50.332319 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-04 22:26:42.758570 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-05 01:27:23.037168 INFO beamer: stop detected
+2025-01-05 01:27:23.042241 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-05 01:27:23.045574 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-05 02:24:20.616875 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-05 02:25:03.115804 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-05 07:31:19.417375 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-05 09:00:01.039672 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-05 09:15:14.449664 INFO waschmaschine_oma: start detected
+2025-01-05 09:15:14.451216 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-05 09:15:14.451750 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-05 09:37:52.686615 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-05 10:31:31.454270 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-05 10:34:54.824292 INFO waschmaschine_oma: stop detected
+2025-01-05 10:34:54.827607 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-05 10:34:54.831999 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-05 10:34:54.834301 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-05 10:39:52.373541 INFO trockner_oma: start detected
+2025-01-05 10:39:52.374724 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-05 10:39:52.375216 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-05 11:48:51.286533 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-05 12:05:24.372319 INFO trockner_oma: stop detected
+2025-01-05 12:05:24.378689 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-05 12:05:24.382669 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-05 12:05:24.388974 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-05 13:29:50.622868 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-05 15:37:16.952243 INFO spulmaschine: start detected
+2025-01-05 15:37:16.956155 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-05 15:37:16.959458 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-05 16:35:03.679484 INFO pc_marc: start detected
+2025-01-05 16:35:03.683750 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-05 16:35:03.685274 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-05 16:43:12.459115 INFO pc_sandra: start detected
+2025-01-05 16:43:12.463666 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-05 16:43:12.464226 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-05 16:51:12.156258 INFO pc_cassian: start detected
+2025-01-05 16:51:12.160656 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-05 16:51:12.162320 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-05 16:51:12.172143 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-05 18:28:13.741749 INFO spulmaschine: App spulmaschine initialized
+2025-01-05 18:28:13.744237 WARNING spulmaschine: spulmaschine: Entity input_boolean.spulmaschine not found in namespace default
+2025-01-05 18:28:13.814932 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-05 18:28:13.815461 WARNING waschmaschine_oma: waschmaschine_oma: Entity input_boolean.waschmaschine_oma not found in namespace default
+2025-01-05 18:28:13.994083 INFO waschmaschine: App waschmaschine initialized
+2025-01-05 18:28:13.994680 WARNING waschmaschine: waschmaschine: Entity input_boolean.waschmaschine not found in namespace default
+2025-01-05 18:28:14.141323 INFO trockner_oma: App trockner_oma initialized
+2025-01-05 18:28:14.142516 WARNING trockner_oma: trockner_oma: Entity input_boolean.trockner_oma not found in namespace default
+2025-01-05 18:28:14.165776 INFO trockner: App trockner initialized
+2025-01-05 18:28:14.166866 WARNING trockner: trockner: Entity input_boolean.trockner not found in namespace default
+2025-01-05 18:28:14.253531 INFO pc_cassian: App pc_cassian initialized
+2025-01-05 18:28:14.253936 WARNING pc_cassian: pc_cassian: Entity input_boolean.pc_cassian not found in namespace default
+2025-01-05 18:28:14.304556 INFO pc_doran: App pc_doran initialized
+2025-01-05 18:28:14.306205 WARNING pc_doran: pc_doran: Entity input_boolean.pc_doran not found in namespace default
+2025-01-05 18:28:14.332974 INFO pc_kilian: App pc_kilian initialized
+2025-01-05 18:28:14.333444 WARNING pc_kilian: pc_kilian: Entity input_boolean.pc_kilian not found in namespace default
+2025-01-05 18:28:14.355365 INFO pc_sandra: App pc_sandra initialized
+2025-01-05 18:28:14.355789 WARNING pc_sandra: pc_sandra: Entity input_boolean.pc_sandra not found in namespace default
+2025-01-05 18:28:14.422754 INFO pc_marc: App pc_marc initialized
+2025-01-05 18:28:14.423277 WARNING pc_marc: pc_marc: Entity input_boolean.pc_marc not found in namespace default
+2025-01-05 18:28:14.445511 INFO beamer: App beamer initialized
+2025-01-05 18:28:14.445961 WARNING beamer: beamer: Entity input_boolean.beamer not found in namespace default
+2025-01-05 18:28:14.753792 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-05 18:28:14.754384 WARNING 3d_drucker: 3d_drucker: Entity input_boolean.3d_drucker not found in namespace default
+2025-01-05 18:28:14.781680 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-05 18:28:14.782653 WARNING airexchange_wohnzimmer_eg: airexchange_wohnzimmer_eg: Entity input_boolean.airexchange_wohnzimmer_eg not found in namespace default
+2025-01-05 18:28:14.865640 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-05 18:28:14.867528 WARNING airexchange_schlafzimmerr_eg: airexchange_schlafzimmerr_eg: Entity input_boolean.airexchange_schlafzimmer_eg not found in namespace default
+2025-01-05 18:28:14.906666 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-05 18:28:14.908059 WARNING airexchange_buro: airexchange_buro: Entity input_boolean.airexchange_buro not found in namespace default
+2025-01-05 18:28:14.948498 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-05 18:28:14.950717 WARNING airexchange_yavanna: airexchange_yavanna: Entity input_boolean.airexchange_yavanna not found in namespace default
+2025-01-05 18:28:14.990875 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-05 18:28:14.992414 WARNING airexchange_schlafzimmer_og: airexchange_schlafzimmer_og: Entity input_boolean.airexchange_schlafzimmer_og not found in namespace default
+2025-01-05 18:28:15.035594 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-05 18:28:15.036222 WARNING airexchange_kilian: airexchange_kilian: Entity input_boolean.airexchange_kilian not found in namespace default
+2025-01-05 18:28:15.118933 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-05 18:28:15.119464 WARNING airexchange_wohnzimmer_og: airexchange_wohnzimmer_og: Entity input_boolean.airexchange_wohnzimmer_og not found in namespace default
+2025-01-05 18:28:15.149462 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-05 18:28:15.150074 WARNING airexchange_cassian: airexchange_cassian: Entity input_boolean.airexchange_cassian not found in namespace default
+2025-01-05 18:28:15.193875 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-05 18:28:15.195560 WARNING airexchange_doran: airexchange_doran: Entity input_boolean.airexchange_doran not found in namespace default
+2025-01-05 18:30:15.258238 INFO pc_cassian: start detected
+2025-01-05 18:30:15.260599 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-05 18:30:15.264592 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-05 18:30:15.269714 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-05 18:30:47.339386 INFO pc_sandra: start detected
+2025-01-05 18:30:47.342418 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-05 18:30:47.347630 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-05 18:30:47.369097 INFO pc_marc: start detected
+2025-01-05 18:30:47.371563 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-05 18:30:47.375049 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-05 19:44:23.784054 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:44:23.785199 WARNING schuhtrockner: schuhtrockner: Entity switch.schuhtrockner not found in namespace default
+2025-01-05 19:44:23.788688 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-05 19:44:23.806569 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:44:23.807398 WARNING schuhtrockner: schuhtrockner: Entity switch.schuhtrockner not found in namespace default
+2025-01-05 19:46:30.919785 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:46:30.920819 WARNING schuhtrockner: schuhtrockner: Entity switch.schuhtrockner not found in namespace default
+2025-01-05 19:46:30.921752 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-05 19:46:30.933903 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:46:30.936244 WARNING schuhtrockner: schuhtrockner: Entity switch.schuhtrockner not found in namespace default
+2025-01-05 19:47:58.775226 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:47:58.834481 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-05 19:47:58.848325 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-05 19:47:58.857059 INFO spulmaschine: App spulmaschine initialized
+2025-01-05 19:47:58.876488 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-05 19:47:58.895639 INFO waschmaschine: App waschmaschine initialized
+2025-01-05 19:47:58.912203 INFO trockner_oma: App trockner_oma initialized
+2025-01-05 19:47:58.954711 INFO trockner: App trockner initialized
+2025-01-05 19:47:58.984239 INFO pc_cassian: App pc_cassian initialized
+2025-01-05 19:47:59.012782 INFO pc_doran: App pc_doran initialized
+2025-01-05 19:47:59.037002 INFO pc_kilian: App pc_kilian initialized
+2025-01-05 19:47:59.052173 INFO pc_sandra: App pc_sandra initialized
+2025-01-05 19:47:59.069692 INFO pc_marc: App pc_marc initialized
+2025-01-05 19:47:59.088246 INFO beamer: App beamer initialized
+2025-01-05 19:47:59.101892 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-05 19:47:59.125162 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-05 19:47:59.147761 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 58 %. Start threshold: 60 %
+2025-01-05 19:47:59.164140 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-05 19:47:59.202401 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-05 19:47:59.247142 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-05 19:47:59.277777 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-05 19:47:59.296801 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 59 %. Start threshold: 60 %
+2025-01-05 19:47:59.311588 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-05 19:47:59.326620 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-05 19:47:59.344837 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 58 %. Start threshold: 60 %
+2025-01-05 19:47:59.358400 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-05 19:47:59.386968 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-05 19:49:59.015502 INFO pc_cassian: start detected
+2025-01-05 19:49:59.022902 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-05 19:49:59.023594 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-05 19:49:59.027462 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-05 19:49:59.079088 INFO pc_sandra: start detected
+2025-01-05 19:49:59.084670 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-05 19:49:59.090391 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-05 19:49:59.099940 INFO pc_marc: start detected
+2025-01-05 19:49:59.112502 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-05 19:49:59.113225 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft

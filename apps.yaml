@@ -1,0 +1,460 @@
+
+
+
+notifyer:
+  module: notifyer
+  class: Notifyer
+  priority: 10
+  log: runtime
+  alexas:
+    buro:
+      pc: 1
+      pc_kids: 1
+      3d_drucker: 1
+      beamer: 1
+      spulmaschine: 1
+      wasche: 1
+      schuhtrockner: 2
+    cassian:
+      spulmaschine: 2
+    wohnzimmer:
+      pc_kids: 2
+      3d_drucker: 2
+      spulmaschine: 2
+      wasche: 2
+      pc_kids: 2
+      schuhtrockner: 2
+    kilian:
+      wasche: 2
+      spulmaschine: 2
+      schuhtrockner: 2
+    oma:
+      wasche_oma: 2
+  mobiles:
+    handy_marc:
+      pc_kids: 1
+      spulmaschine: 2
+      wasche: 1
+      3d_drucker: 2
+      schuhtrockner: 2
+    handy_sandra:
+      spulmaschine: 2
+      wasche: 2
+      pc_kids: 1
+      schuhtrockner: 2
+    handy_yavanna:
+      wasche: 1
+      spulmaschine: 2
+      schuhtrockner: 2 
+    handy_kilian:
+      wasche: 1
+      spulmaschine: 2
+      schuhtrockner: 2  
+    handy_cassian:
+      wasche: 1
+      spulmaschine: 2
+      schuhtrockner: 2
+    handy_angela:
+      wasche_oma: 2
+    handy_manfred:
+      wasche_oma: 2      
+
+
+schuhtrockner:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "schuhtrockner"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.spulmaschine
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.schuhtrockner
+  switch_entity: switch.schuhtrockner
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 40
+  start_timer: 60
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 21
+  stop_timer: 60      
+
+spulmaschine:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "spulmaschine"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.spulmaschine
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.spulmaschine_power
+  switch_entity: switch.spulmaschine
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 10
+  stop_timer: 390
+
+waschmaschine_oma:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "wasche_oma"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.waschmaschine_oma
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.waschmaschine_oma_power
+  switch_entity: switch.waschmaschine_oma
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 300
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 30
+  stop_timer: 300
+
+waschmaschine:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "wasche"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.waschmaschine
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.waschmaschine_power
+  switch_entity: switch.waschmaschine
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 80
+  stop_timer: 600
+
+trockner_oma:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "wasche_oma"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.trockner_oma
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.trockner_oma_power
+  switch_entity: switch.trockner_oma
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 300
+
+trockner:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "wasche"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.trockner
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.trockner_power
+  switch_entity: switch.trockner
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 300
+
+pc_cassian:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "pc_kids"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.pc_cassian
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.pc_cassian_power
+  switch_entity: switch.pc_cassian
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+pc_doran:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "pc_kids"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.pc_doran
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.pc_doran_power
+  switch_entity: switch.pc_doran
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+pc_kilian:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "pc"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.pc_kilian
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.pc_kilian_power
+  switch_entity: switch.pc_kilian
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+pc_sandra:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "pc"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.pc_sandra
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.pc_sandra_power
+  switch_entity: switch.pc_sandra
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+pc_marc:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "pc"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.pc_marc
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.pc_marc_power
+  switch_entity: switch.pc_marc
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 15
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+beamer:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "beamer"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.beamer
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.beamer_power
+  switch_entity: switch.beamer
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+3d_drucker:
+  module: statusoverpower
+  class: StatusOverPower
+  #Where to log actions
+  log: runtime
+  #Notification TAG:
+  notify_tag: "3d_drucker"
+  #Switch on/off app:
+  active: true
+  #App will create this on-the-fly in HA to report the status usually input_boolean.something:
+  status_input_boolean: input_boolean.3d_drucker
+  #Smartplug that is used to controll the device you want to make smart:
+  power_entity: sensor.3d_drucker_power
+  switch_entity: switch.3d_drucker
+  #Power level(W) and time(sec) to concider device active:
+  start_power: 20
+  start_timer: 120
+  #Power level(W) and time(sec) to concider device inactive:
+  stop_power: 15
+  stop_timer: 120
+
+caller:
+  module: caller
+  class: Caller
+
+
+tester:
+  module: tester
+  class: Tester
+
+airexchange_wohnzimmer_eg:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_wohnzimmer_eg
+  fan_switch: switch.lufter_wohnzimmer_eg
+  humidity_sensor: sensor.luft_wohnzimmer_eg_humidity
+  active_from: '07:00:00'
+  active_to: '09:00:00'
+  start_humidity: 60
+  stop_humidity: 55
+
+airexchange_schlafzimmerr_eg:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_schlafzimmer_eg
+  fan_switch: switch.lufter_schlafzimmer_eg
+  humidity_sensor: sensor.luft_schlafzimmer_eg_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55
+
+airexchange_buro:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_buro
+  fan_switch: switch.lufter_buro
+  humidity_sensor: sensor.luft_buro_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55
+
+airexchange_yavanna:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_yavanna
+  fan_switch: switch.lufter_yavanna
+  humidity_sensor: sensor.luft_yavanna_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55
+
+airexchange_schlafzimmer_og:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_schlafzimmer_og
+  fan_switch: switch.lufter_schlafzimmer_og
+  humidity_sensor: sensor.luft_schlafzimmer_og_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55
+  
+airexchange_kilian:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_kilian
+  fan_switch: switch.lufter_kilian
+  humidity_sensor: sensor.luft_kilian_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55  
+
+airexchange_wohnzimmer_og:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_wohnzimmer_og
+  fan_switch: switch.lufter_wohnzimmer_og
+  humidity_sensor: sensor.luft_wohnzimmer_og_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55  
+
+airexchange_cassian:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_cassian
+  fan_switch: switch.lufter_cassian
+  humidity_sensor: sensor.luft_cassian_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55   
+
+airexchange_doran:
+  module: airexchange
+  class: AirExchange
+  log: runtime
+  active: true
+  status_input_boolean: input_boolean.airexchange_doran
+  fan_switch: switch.lufter_doran
+  humidity_sensor: sensor.luft_doran_humidity
+  active_from: '00:00:00'
+  active_to: '00:00:00'
+  start_humidity: 60
+  stop_humidity: 55    
