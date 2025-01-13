@@ -23,7 +23,11 @@ class AirExchange(hass.Hass):
         #register listener
         if self.active == True:
             #get intention boolean available
-            self.set_state(self.args["status_input_boolean"], state="on")
+            try:
+                self.set_state(self.args["status_input_boolean"], state="on")
+            except:
+                #second time it will exist in HA at any case
+                self.set_state(self.args["status_input_boolean"], state="on")
             self.input_boolean_switch = self.get_entity(self.args["status_input_boolean"])
             #initially start airex
             self.air_control()

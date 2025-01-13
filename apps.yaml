@@ -70,9 +70,9 @@ schuhtrockner:
   #Switch on/off app:
   active: true
   #App will create this on-the-fly in HA to report the status usually input_boolean.something:
-  status_input_boolean: input_boolean.spulmaschine
+  status_input_boolean: input_boolean.schuhtrockner
   #Smartplug that is used to controll the device you want to make smart:
-  power_entity: sensor.schuhtrockner
+  power_entity: sensor.schuhtrockner_power
   switch_entity: switch.schuhtrockner
   #Power level(W) and time(sec) to concider device active:
   start_power: 40
@@ -352,8 +352,8 @@ airexchange_wohnzimmer_eg:
   humidity_sensor: sensor.luft_wohnzimmer_eg_humidity
   active_from: '07:00:00'
   active_to: '09:00:00'
-  start_humidity: 60
-  stop_humidity: 55
+  start_humidity: 55
+  stop_humidity: 50
 
 airexchange_schlafzimmerr_eg:
   module: airexchange
@@ -365,8 +365,8 @@ airexchange_schlafzimmerr_eg:
   humidity_sensor: sensor.luft_schlafzimmer_eg_humidity
   active_from: '00:00:00'
   active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55
+  start_humidity: 55
+  stop_humidity: 50
 
 airexchange_buro:
   module: airexchange
@@ -376,10 +376,10 @@ airexchange_buro:
   status_input_boolean: input_boolean.airexchange_buro
   fan_switch: switch.lufter_buro
   humidity_sensor: sensor.luft_buro_humidity
-  active_from: '00:00:00'
-  active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55
+  active_from: '06:00:00'
+  active_to: '07:00:00'
+  start_humidity: 55
+  stop_humidity: 50
 
 airexchange_yavanna:
   module: airexchange
@@ -389,10 +389,10 @@ airexchange_yavanna:
   status_input_boolean: input_boolean.airexchange_yavanna
   fan_switch: switch.lufter_yavanna
   humidity_sensor: sensor.luft_yavanna_humidity
-  active_from: '00:00:00'
-  active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55
+  active_from: '08:00:00'
+  active_to: '09:00:00'
+  start_humidity: 55
+  stop_humidity: 50
 
 airexchange_schlafzimmer_og:
   module: airexchange
@@ -404,8 +404,8 @@ airexchange_schlafzimmer_og:
   humidity_sensor: sensor.luft_schlafzimmer_og_humidity
   active_from: '00:00:00'
   active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55
+  start_humidity: 55
+  stop_humidity: 50
   
 airexchange_kilian:
   module: airexchange
@@ -417,8 +417,8 @@ airexchange_kilian:
   humidity_sensor: sensor.luft_kilian_humidity
   active_from: '00:00:00'
   active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55  
+  start_humidity: 55
+  stop_humidity: 50
 
 airexchange_wohnzimmer_og:
   module: airexchange
@@ -430,8 +430,8 @@ airexchange_wohnzimmer_og:
   humidity_sensor: sensor.luft_wohnzimmer_og_humidity
   active_from: '00:00:00'
   active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55  
+  start_humidity: 55
+  stop_humidity: 50 
 
 airexchange_cassian:
   module: airexchange
@@ -441,10 +441,10 @@ airexchange_cassian:
   status_input_boolean: input_boolean.airexchange_cassian
   fan_switch: switch.lufter_cassian
   humidity_sensor: sensor.luft_cassian_humidity
-  active_from: '00:00:00'
-  active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55   
+  active_from: '08:00:00'
+  active_to: '09:00:00'
+  start_humidity: 55
+  stop_humidity: 50   
 
 airexchange_doran:
   module: airexchange
@@ -454,7 +454,7 @@ airexchange_doran:
   status_input_boolean: input_boolean.airexchange_doran
   fan_switch: switch.lufter_doran
   humidity_sensor: sensor.luft_doran_humidity
-  active_from: '00:00:00'
-  active_to: '00:00:00'
-  start_humidity: 60
-  stop_humidity: 55    
+  active_from: '08:00:00'
+  active_to: '09:00:00'
+  start_humidity: 55
+  stop_humidity: 50    

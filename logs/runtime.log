@@ -901,3 +901,1064 @@
 2025-01-05 19:49:59.099940 INFO pc_marc: start detected
 2025-01-05 19:49:59.112502 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
 2025-01-05 19:49:59.113225 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-05 20:52:28.138677 INFO spulmaschine: start detected
+2025-01-05 20:52:28.141871 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-05 20:52:28.144057 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-05 21:05:07.795676 INFO spulmaschine: Smartplug switch.spulmaschine turned off while device input_boolean.spulmaschine was concidered active, turned on again!
+2025-01-05 21:05:07.802074 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:05:07.802765 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:05:09.799820 INFO spulmaschine: Smartplug switch.spulmaschine turned off while device input_boolean.spulmaschine was concidered active, turned on again!
+2025-01-05 21:05:09.800925 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:05:09.801479 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:05:11.798382 INFO spulmaschine: Smartplug switch.spulmaschine turned off while device input_boolean.spulmaschine was concidered active, turned on again!
+2025-01-05 21:05:11.799492 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:05:11.800003 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine hatte Ausetzer beim Smartplug
+2025-01-05 21:12:06.630281 INFO pc_marc: stop detected
+2025-01-05 21:12:06.636859 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-05 21:12:06.640561 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-05 21:42:59.844688 INFO pc_cassian: stop detected
+2025-01-05 21:42:59.848955 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-05 21:42:59.855719 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-05 21:42:59.859732 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-05 22:06:15.182679 INFO pc_cassian: start detected
+2025-01-05 22:06:15.188730 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-05 22:06:15.192042 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-05 22:06:15.193548 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-05 22:08:12.585221 INFO beamer: start detected
+2025-01-05 22:08:12.586742 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-05 22:08:12.588277 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-05 22:17:37.895277 INFO pc_marc: start detected
+2025-01-05 22:17:37.897540 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-05 22:17:37.899012 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-05 22:38:56.291566 INFO pc_kilian: start detected
+2025-01-05 22:38:56.294531 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-05 22:38:56.295022 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-05 22:48:39.953864 INFO spulmaschine: stop detected
+2025-01-05 22:48:39.970191 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-05 22:48:39.980725 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-05 22:48:39.989709 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-05 22:48:39.996884 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-05 22:48:40.003412 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-05 22:48:40.009555 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 00:37:50.218656 INFO pc_sandra: stop detected
+2025-01-06 00:37:50.222631 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-06 00:37:50.227243 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-06 00:38:01.389183 INFO pc_marc: stop detected
+2025-01-06 00:38:01.392860 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-06 00:38:01.395672 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-06 00:39:12.889772 INFO pc_kilian: stop detected
+2025-01-06 00:39:12.892748 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-06 00:39:12.900012 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-06 00:59:08.898168 INFO pc_cassian: stop detected
+2025-01-06 00:59:08.906598 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 00:59:08.915032 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 00:59:08.921566 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 02:45:52.190467 INFO beamer: stop detected
+2025-01-06 02:45:52.194891 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-06 02:45:52.200930 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-06 06:21:35.164981 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-06 09:00:01.022597 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-06 11:40:23.607437 INFO spulmaschine: start detected
+2025-01-06 11:40:23.610310 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-06 11:40:23.610917 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-06 11:53:05.621279 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-06 13:35:59.747470 INFO spulmaschine: stop detected
+2025-01-06 13:35:59.763013 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:35:59.771762 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:35:59.780122 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:35:59.784256 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:35:59.789438 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:35:59.796404 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 13:37:20.149414 INFO beamer: start detected
+2025-01-06 13:37:20.151702 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-06 13:37:20.156566 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-06 14:42:25.595459 INFO beamer: stop detected
+2025-01-06 14:42:25.597848 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-06 14:42:25.602763 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-06 14:43:33.603883 INFO pc_cassian: start detected
+2025-01-06 14:43:33.608179 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-06 14:43:33.608813 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-06 14:43:33.612158 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-06 14:53:16.086529 INFO spulmaschine: start detected
+2025-01-06 14:53:16.089458 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-06 14:53:16.096705 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-06 14:59:37.627374 INFO trockner: start detected
+2025-01-06 14:59:37.630595 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-06 14:59:37.632408 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-06 14:59:37.634909 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-06 14:59:37.640593 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-06 14:59:37.647318 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-06 15:01:03.009572 INFO waschmaschine: start detected
+2025-01-06 15:01:03.013576 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:01:03.014153 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:01:03.020887 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:01:03.024889 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:01:03.033595 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:13:30.989935 INFO pc_marc: start detected
+2025-01-06 15:13:30.993265 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-06 15:13:30.993798 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-06 15:19:47.949257 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:19:47.953270 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-06 15:19:47.954463 WARNING schuhtrockner: schuhtrockner: Entity input_boolean.schuhtrockner not found in namespace default
+2025-01-06 15:19:47.969292 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:20:24.249710 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:20:24.252987 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-06 15:20:24.287470 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:20:24.292124 INFO spulmaschine: App spulmaschine initialized
+2025-01-06 15:20:24.311987 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-06 15:20:24.327695 INFO waschmaschine: App waschmaschine initialized
+2025-01-06 15:20:24.346666 INFO trockner_oma: App trockner_oma initialized
+2025-01-06 15:20:24.357806 INFO trockner: App trockner initialized
+2025-01-06 15:20:24.374173 INFO pc_cassian: App pc_cassian initialized
+2025-01-06 15:20:24.390972 INFO pc_doran: App pc_doran initialized
+2025-01-06 15:20:24.409045 INFO pc_kilian: App pc_kilian initialized
+2025-01-06 15:20:24.423844 INFO pc_sandra: App pc_sandra initialized
+2025-01-06 15:20:24.437951 INFO pc_marc: App pc_marc initialized
+2025-01-06 15:20:24.453740 INFO beamer: App beamer initialized
+2025-01-06 15:20:24.471585 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-06 15:21:10.800914 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:21:10.802391 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-06 15:21:10.813548 WARNING schuhtrockner: schuhtrockner: Entity sensor.schuhtrockner not found in namespace default
+2025-01-06 15:21:10.817108 INFO spulmaschine: App spulmaschine initialized
+2025-01-06 15:21:10.831621 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-06 15:21:10.845642 INFO waschmaschine: App waschmaschine initialized
+2025-01-06 15:21:10.858657 INFO trockner_oma: App trockner_oma initialized
+2025-01-06 15:21:10.871792 INFO trockner: App trockner initialized
+2025-01-06 15:21:10.887369 INFO pc_cassian: App pc_cassian initialized
+2025-01-06 15:21:10.900155 INFO pc_doran: App pc_doran initialized
+2025-01-06 15:21:10.912163 INFO pc_kilian: App pc_kilian initialized
+2025-01-06 15:21:10.924713 INFO pc_sandra: App pc_sandra initialized
+2025-01-06 15:21:10.937082 INFO pc_marc: App pc_marc initialized
+2025-01-06 15:21:10.948173 INFO beamer: App beamer initialized
+2025-01-06 15:21:10.960343 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-06 15:22:32.584737 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-06 15:23:10.833275 INFO spulmaschine: start detected
+2025-01-06 15:23:10.835768 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-06 15:23:10.838508 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-06 15:23:10.864677 INFO waschmaschine: start detected
+2025-01-06 15:23:10.869692 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:23:10.875123 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:23:10.879629 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:23:10.890132 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:23:10.890815 INFO trockner: start detected
+2025-01-06 15:23:10.898052 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-06 15:23:10.903454 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-06 15:23:10.906908 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-06 15:23:10.910638 INFO pc_cassian: start detected
+2025-01-06 15:23:10.917672 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-06 15:23:10.918396 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-06 15:23:10.922925 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-06 15:23:10.933049 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-06 15:23:10.933361 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-06 15:23:10.936720 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-06 15:23:10.959678 INFO pc_marc: start detected
+2025-01-06 15:23:10.966948 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-06 15:23:10.967509 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-06 15:25:49.772728 INFO pc_sandra: start detected
+2025-01-06 15:25:49.775830 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-06 15:25:49.776885 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-06 16:16:00.277211 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-06 16:47:07.948360 INFO spulmaschine: stop detected
+2025-01-06 16:47:07.973503 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:47:07.978603 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:47:07.981710 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:47:07.983074 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:47:07.984873 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:47:07.988743 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 16:55:32.287854 INFO pc_kilian: start detected
+2025-01-06 16:55:32.292135 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-06 16:55:32.292735 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-06 17:31:03.019450 INFO waschmaschine: stop detected
+2025-01-06 17:31:03.038733 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:31:03.052374 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:31:03.057255 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:31:03.063404 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:31:03.073744 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:31:03.080212 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-06 17:49:49.534599 INFO pc_kilian: stop detected
+2025-01-06 17:49:49.544098 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-06 17:49:49.551079 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-06 17:51:15.480752 INFO trockner: stop detected
+2025-01-06 17:51:15.497532 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 17:51:15.505781 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 17:51:15.514809 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 17:51:15.520658 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 17:51:15.526107 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 17:51:15.529669 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 18:14:32.864283 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-06 18:53:13.433769 INFO spulmaschine: start detected
+2025-01-06 18:53:13.440537 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-06 18:53:13.442872 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-06 21:02:52.135765 INFO pc_sandra: stop detected
+2025-01-06 21:02:52.151254 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-06 21:02:52.167633 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-06 21:03:03.665503 INFO pc_marc: stop detected
+2025-01-06 21:03:03.668858 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-06 21:03:03.671298 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-06 21:07:55.832741 INFO trockner: start detected
+2025-01-06 21:07:55.834642 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-06 21:07:55.837703 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-06 21:07:55.842677 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-06 21:07:55.848710 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-06 21:07:55.860419 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-06 21:28:11.348386 INFO spulmaschine: stop detected
+2025-01-06 21:28:11.373746 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:28:11.386687 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:28:11.395598 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:28:11.401533 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:28:11.409623 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:28:11.415172 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-06 21:57:44.756235 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-06 22:38:32.687017 INFO pc_cassian: stop detected
+2025-01-06 22:38:32.697739 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 22:38:32.710045 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 22:38:32.715451 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-06 22:53:33.758023 INFO beamer: start detected
+2025-01-06 22:53:33.762611 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-06 22:53:33.766471 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-06 22:58:29.171791 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-06 23:45:30.920560 INFO trockner: stop detected
+2025-01-06 23:45:30.947455 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 23:45:30.960836 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 23:45:30.970326 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 23:45:30.974308 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 23:45:30.987962 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-06 23:45:30.992662 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-07 00:53:35.340642 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-07 02:28:17.951508 INFO beamer: stop detected
+2025-01-07 02:28:17.962665 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-07 02:28:17.971038 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-07 03:14:54.220989 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 04:10:44.544191 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 05:13:46.040450 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-07 06:39:04.552877 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 08:13:49.213071 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-07 09:00:01.053445 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 48 %. Stop threshold: 55 %
+2025-01-07 11:42:33.033408 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 13:50:24.267111 INFO waschmaschine: start detected
+2025-01-07 13:50:24.274703 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-07 13:50:24.275873 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-07 13:50:24.278590 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-07 13:50:24.285988 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-07 13:50:24.294320 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-07 14:12:56.447938 INFO waschmaschine: Smartplug switch.waschmaschine turned off while device input_boolean.waschmaschine was concidered active, turned on again!
+2025-01-07 14:12:56.453772 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:56.455823 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:56.464284 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:56.475296 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:56.481817 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:58.438651 INFO waschmaschine: Smartplug switch.waschmaschine turned off while device input_boolean.waschmaschine was concidered active, turned on again!
+2025-01-07 14:12:58.443241 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:58.445954 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:58.452798 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:58.465958 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:12:58.483106 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:13:00.489200 INFO waschmaschine: Smartplug switch.waschmaschine turned off while device input_boolean.waschmaschine was concidered active, turned on again!
+2025-01-07 14:13:00.494956 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:13:00.495674 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:13:00.500333 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:13:00.507683 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:13:00.515238 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine hatte Ausetzer beim Smartplug
+2025-01-07 14:38:28.446874 INFO pc_marc: start detected
+2025-01-07 14:38:28.460586 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-07 14:38:28.468453 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-07 14:50:23.872488 INFO pc_marc: stop detected
+2025-01-07 14:50:23.907590 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-07 14:50:23.918458 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-07 15:33:19.383804 INFO pc_kilian: start detected
+2025-01-07 15:33:19.390761 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-07 15:33:19.394739 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-07 16:05:37.278171 INFO waschmaschine: stop detected
+2025-01-07 16:05:37.300765 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:05:37.320146 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:05:37.326897 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:05:37.340777 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:05:37.349332 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:05:37.355480 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-07 16:19:47.703092 INFO beamer: start detected
+2025-01-07 16:19:47.705694 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-07 16:19:47.707455 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-07 17:27:46.182922 INFO beamer: stop detected
+2025-01-07 17:27:46.201312 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-07 17:27:46.211096 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-07 17:41:13.370002 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-07 17:48:13.297377 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 17:51:12.494465 INFO pc_cassian: start detected
+2025-01-07 17:51:12.501414 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-07 17:51:12.502024 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-07 17:51:12.511869 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-07 17:58:19.652053 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-07 18:12:59.644450 INFO pc_marc: start detected
+2025-01-07 18:12:59.664486 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-07 18:12:59.673044 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-07 18:25:24.196963 INFO spulmaschine: start detected
+2025-01-07 18:25:24.256900 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-07 18:25:24.257538 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-07 18:48:03.962410 INFO pc_marc: stop detected
+2025-01-07 18:48:04.073375 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-07 18:48:04.111546 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-07 18:48:44.820069 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 64 %. Start threshold: 60 %
+2025-01-07 19:43:53.186338 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-07 20:12:17.939344 INFO pc_sandra: start detected
+2025-01-07 20:12:17.941829 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-07 20:12:17.945697 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-07 20:12:35.132057 INFO pc_marc: start detected
+2025-01-07 20:12:35.133898 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-07 20:12:35.134480 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-07 20:24:24.105299 INFO spulmaschine: stop detected
+2025-01-07 20:24:24.114690 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:24:24.119729 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:24:24.121529 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:24:24.125615 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:24:24.127606 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:24:24.131789 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-07 20:41:27.968091 INFO pc_kilian: stop detected
+2025-01-07 20:41:27.972414 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-07 20:41:27.977061 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-07 21:28:40.217639 INFO beamer: start detected
+2025-01-07 21:28:40.220404 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-07 21:28:40.221086 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-07 22:37:04.050670 INFO pc_cassian: stop detected
+2025-01-07 22:37:04.059753 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 22:37:04.071743 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 22:37:04.075506 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 22:46:28.740813 INFO pc_cassian: start detected
+2025-01-07 22:46:28.744029 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-07 22:46:28.751059 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-07 22:46:28.754164 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-07 22:48:46.127816 INFO pc_cassian: stop detected
+2025-01-07 22:48:46.134334 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 22:48:46.147807 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 22:48:46.151287 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-07 23:51:09.358620 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-08 00:10:03.176642 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 00:24:35.928406 INFO pc_kilian: start detected
+2025-01-08 00:24:35.929862 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-08 00:24:35.930500 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-08 00:37:07.541125 INFO pc_sandra: stop detected
+2025-01-08 00:37:07.543300 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-08 00:37:07.548112 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-08 00:37:20.069757 INFO pc_marc: stop detected
+2025-01-08 00:37:20.071866 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-08 00:37:20.075410 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-08 00:53:39.374927 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-08 01:28:31.520480 INFO beamer: stop detected
+2025-01-08 01:28:31.527474 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-08 01:28:31.530750 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-08 01:30:57.236371 INFO pc_kilian: stop detected
+2025-01-08 01:30:57.240667 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-08 01:30:57.242238 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-08 02:08:55.430449 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-08 02:47:43.749805 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 03:43:34.726608 INFO pc_cassian: start detected
+2025-01-08 03:43:34.730329 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-08 03:43:34.731814 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-08 03:43:34.734537 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-08 03:45:47.078376 INFO pc_cassian: stop detected
+2025-01-08 03:45:47.081700 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-08 03:45:47.091404 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-08 03:45:47.096467 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-08 04:08:08.602418 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-08 06:15:24.409600 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-08 07:44:50.430610 INFO airexchange_doran: AirExchange started fan airexchange_doran at rel. humidity of 79 %. Start threshold: 60 %
+2025-01-08 07:54:55.302866 INFO airexchange_doran: AirExchange stopped fan airexchange_doran at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-08 09:00:01.018402 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 47 %. Stop threshold: 55 %
+2025-01-08 10:37:28.305375 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 12:53:10.597159 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 64 %. Start threshold: 60 %
+2025-01-08 13:24:55.677585 INFO spulmaschine: start detected
+2025-01-08 13:24:55.681571 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-08 13:24:55.682150 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-08 13:26:24.547594 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-08 14:01:51.957793 INFO beamer: start detected
+2025-01-08 14:01:51.961398 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-08 14:01:51.961981 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-08 15:05:53.575652 INFO spulmaschine: stop detected
+2025-01-08 15:05:53.592563 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:05:53.606708 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:05:53.612718 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:05:53.618315 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:05:53.626807 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:05:53.634808 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-08 15:13:39.909025 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-08 15:28:51.378333 INFO beamer: stop detected
+2025-01-08 15:28:51.382776 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-08 15:28:51.386698 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-08 15:48:44.491636 INFO trockner: start detected
+2025-01-08 15:48:44.495547 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-08 15:48:44.496690 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-08 15:48:44.500915 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-08 15:48:44.505833 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-08 15:48:44.512137 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-08 15:52:17.397927 INFO waschmaschine: start detected
+2025-01-08 15:52:17.399757 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-08 15:52:17.401610 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-08 15:52:17.405634 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-08 15:52:17.410651 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 15:52:17.420776 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 17:46:45.130649 INFO waschmaschine: stop detected
+2025-01-08 17:46:45.140194 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 17:46:45.149749 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 17:46:45.156359 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 17:46:45.164602 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 17:46:45.167631 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 17:46:45.173591 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 18:27:12.018757 INFO trockner: stop detected
+2025-01-08 18:27:12.035060 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:27:12.044155 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:27:12.049259 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:27:12.054652 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:27:12.061930 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:27:12.066745 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 18:31:13.199408 INFO trockner: start detected
+2025-01-08 18:31:13.201300 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-08 18:31:13.203214 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-08 18:31:13.208607 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-08 18:31:13.213484 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-08 18:31:13.216985 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-08 18:34:41.350763 INFO waschmaschine: start detected
+2025-01-08 18:34:41.354419 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-08 18:34:41.355714 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-08 18:34:41.358236 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-08 18:34:41.363082 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 18:34:41.366561 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 20:00:54.928350 INFO waschmaschine: stop detected
+2025-01-08 20:00:54.937066 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:00:54.944335 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:00:54.951768 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:00:54.955611 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:00:54.963827 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:00:54.968844 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 20:45:35.300256 INFO trockner: stop detected
+2025-01-08 20:45:35.308682 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:45:35.322123 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:45:35.326135 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:45:35.330985 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:45:35.338357 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:45:35.344400 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 20:46:36.211700 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 21:01:55.165339 INFO waschmaschine: start detected
+2025-01-08 21:01:55.168770 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-08 21:01:55.169628 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-08 21:01:55.177783 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-08 21:01:55.187362 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 21:01:55.197075 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 21:10:29.363884 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 21:14:35.147263 INFO waschmaschine: stop detected
+2025-01-08 21:14:35.161122 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:14:35.168020 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:14:35.173400 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:14:35.177768 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:14:35.190795 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:14:35.204368 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-08 21:19:41.960802 INFO trockner: start detected
+2025-01-08 21:19:41.964545 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-08 21:19:41.968117 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-08 21:19:41.972753 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-08 21:19:41.977990 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-08 21:19:41.981483 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-08 22:09:21.657141 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-08 22:29:53.581835 INFO waschmaschine: start detected
+2025-01-08 22:29:53.585878 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-08 22:29:53.586446 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-08 22:29:53.588575 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-08 22:29:53.594605 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 22:29:53.600284 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-08 23:13:17.997702 INFO pc_kilian: start detected
+2025-01-08 23:13:17.999339 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-08 23:13:18.000500 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-08 23:54:13.324430 INFO trockner: stop detected
+2025-01-08 23:54:13.331532 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:54:13.347755 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:54:13.349909 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:54:13.354601 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:54:13.360688 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:54:13.364354 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-08 23:55:27.972793 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-09 01:00:25.242935 INFO waschmaschine: stop detected
+2025-01-09 01:00:25.259882 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:00:25.271785 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:00:25.273609 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:00:25.281162 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:00:25.285266 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:00:25.288832 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 01:17:28.366841 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 01:28:30.831911 INFO pc_kilian: stop detected
+2025-01-09 01:28:30.835832 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 01:28:30.838370 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 01:45:48.914357 INFO pc_kilian: start detected
+2025-01-09 01:45:48.916272 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-09 01:45:48.918373 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-09 03:02:53.259212 INFO pc_kilian: stop detected
+2025-01-09 03:02:53.264537 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 03:02:53.269279 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 03:27:09.834074 INFO trockner: start detected
+2025-01-09 03:27:09.836641 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-09 03:27:09.837275 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-09 03:27:09.840931 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-09 03:27:09.844713 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-09 03:27:09.848502 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-09 03:51:46.617404 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 04:29:16.017817 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-09 06:47:47.423685 INFO trockner: stop detected
+2025-01-09 06:47:47.433660 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 06:47:47.441144 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 06:47:47.444646 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 06:47:47.451319 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 06:47:47.456643 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 06:47:47.463083 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 07:56:51.093483 INFO spulmaschine: start detected
+2025-01-09 07:56:51.097260 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-09 07:56:51.097921 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-09 08:39:40.250551 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 64 %. Start threshold: 60 %
+2025-01-09 09:00:01.012205 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-09 09:02:35.222279 INFO waschmaschine: start detected
+2025-01-09 09:02:35.224632 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-09 09:02:35.225280 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-09 09:02:35.227275 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-09 09:02:35.229843 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-09 09:02:35.235758 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-09 09:53:03.139365 INFO spulmaschine: stop detected
+2025-01-09 09:53:03.155190 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 09:53:03.162057 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 09:53:03.166604 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 09:53:03.167825 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 09:53:03.173705 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 09:53:03.177613 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.667116 INFO waschmaschine: stop detected
+2025-01-09 10:25:41.674595 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.690689 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.693827 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.697612 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.702471 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 10:25:41.707742 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 11:14:14.845005 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 12:26:49.254164 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-09 12:54:27.106461 INFO pc_marc: start detected
+2025-01-09 12:54:27.110260 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-09 12:54:27.110845 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-09 13:24:15.230974 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 13:52:02.449387 INFO 3d_drucker: start detected
+2025-01-09 13:52:02.453134 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t 3d_drucker l��uft
+2025-01-09 13:52:02.454712 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t 3d_drucker l��uft
+2025-01-09 13:54:13.637314 INFO pc_cassian: start detected
+2025-01-09 13:54:13.639221 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-09 13:54:13.641429 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-09 13:54:13.642836 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-09 13:58:57.348601 INFO pc_marc: stop detected
+2025-01-09 13:58:57.352948 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 13:58:57.356298 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 14:12:22.664733 INFO pc_marc: start detected
+2025-01-09 14:12:22.667364 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-09 14:12:22.667866 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-09 14:17:05.628652 INFO pc_marc: stop detected
+2025-01-09 14:17:05.637198 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 14:17:05.643565 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 14:37:51.347162 INFO pc_kilian: start detected
+2025-01-09 14:37:51.349263 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-09 14:37:51.349832 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-09 15:07:29.061678 INFO trockner: start detected
+2025-01-09 15:07:29.064207 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-09 15:07:29.064770 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-09 15:07:29.067710 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-09 15:07:29.075817 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-09 15:07:29.083351 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-09 15:40:19.105587 INFO waschmaschine: start detected
+2025-01-09 15:40:19.106870 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-09 15:40:19.107429 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-09 15:40:19.110405 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-09 15:40:19.115369 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-09 15:40:19.122784 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-09 15:54:14.734855 INFO pc_kilian: stop detected
+2025-01-09 15:54:14.738936 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 15:54:14.740844 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-09 15:59:48.688054 INFO pc_marc: start detected
+2025-01-09 15:59:48.689606 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-09 15:59:48.691180 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-09 16:19:20.187022 INFO pc_marc: stop detected
+2025-01-09 16:19:20.190646 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 16:19:20.192246 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-09 17:03:51.553986 INFO waschmaschine: stop detected
+2025-01-09 17:03:51.566538 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:03:51.574145 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:03:51.579562 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:03:51.584287 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:03:51.587895 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:03:51.590751 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-09 17:04:41.155435 INFO pc_cassian: stop detected
+2025-01-09 17:04:41.166907 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-09 17:04:41.175820 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-09 17:04:41.181429 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-09 17:05:31.508556 INFO 3d_drucker: stop detected
+2025-01-09 17:05:31.518171 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-09 17:05:31.529279 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-09 18:00:08.506997 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 18:18:10.337058 INFO trockner: stop detected
+2025-01-09 18:18:10.349121 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:18:10.354510 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:18:10.361360 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:18:10.363840 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:18:10.371661 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:18:10.378266 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-09 18:48:25.319326 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 20:25:05.126029 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-09 20:38:30.141210 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-09 22:22:31.079487 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-09 23:00:18.781679 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 62 %. Start threshold: 60 %
+2025-01-09 23:37:38.605356 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 62 %. Start threshold: 60 %
+2025-01-10 00:59:54.371065 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 53 %. Stop threshold: 55 %
+2025-01-10 01:09:00.622302 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-10 02:43:19.594346 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-10 06:15:00.213381 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-10 06:23:02.227406 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-10 08:10:54.825584 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-10 09:00:01.020881 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-10 09:17:24.859404 INFO waschmaschine: start detected
+2025-01-10 09:17:24.860952 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-10 09:17:24.862833 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-10 09:17:24.864214 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-10 09:17:24.866215 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-10 09:17:24.868530 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-10 09:59:26.285674 INFO waschmaschine: stop detected
+2025-01-10 09:59:26.295668 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 09:59:26.313354 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 09:59:26.322563 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 09:59:26.327794 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 09:59:26.331797 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 09:59:26.336087 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 10:09:09.243345 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-10 11:01:58.829340 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-10 11:52:14.886963 INFO waschmaschine_oma: start detected
+2025-01-10 11:52:14.887671 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-10 11:52:14.889472 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-10 13:14:35.316697 INFO waschmaschine_oma: stop detected
+2025-01-10 13:14:35.326114 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-10 13:14:35.335043 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-10 13:14:35.339387 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-10 13:21:19.075562 INFO trockner_oma: start detected
+2025-01-10 13:21:19.076139 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-10 13:21:19.076704 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-10 14:19:41.707296 INFO pc_cassian: start detected
+2025-01-10 14:19:41.712113 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-10 14:19:41.712708 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-10 14:19:41.717697 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-10 15:04:40.816892 INFO trockner_oma: stop detected
+2025-01-10 15:04:40.820742 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-10 15:04:40.826836 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-10 15:04:40.835245 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-10 15:11:06.500079 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-10 15:23:56.649504 INFO pc_cassian: stop detected
+2025-01-10 15:23:56.656442 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-10 15:23:56.662774 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-10 15:23:56.667402 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-10 15:29:32.975363 INFO pc_cassian: start detected
+2025-01-10 15:29:32.976623 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-10 15:29:32.979595 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-10 15:29:32.984722 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-10 15:35:43.201254 INFO trockner: start detected
+2025-01-10 15:35:43.202562 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-10 15:35:43.205983 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-10 15:35:43.208562 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-10 15:35:43.215121 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-10 15:35:43.223748 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-10 15:39:31.732657 INFO waschmaschine: start detected
+2025-01-10 15:39:31.738772 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-10 15:39:31.739409 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-10 15:39:31.741782 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-10 15:39:31.748747 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-10 15:39:31.754975 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-10 17:14:34.652132 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-10 17:43:53.378224 INFO waschmaschine: stop detected
+2025-01-10 17:43:53.388408 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:43:53.397716 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:43:53.404024 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:43:53.412757 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:43:53.414839 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:43:53.422738 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-10 17:57:51.459783 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-10 18:02:20.984579 INFO trockner: stop detected
+2025-01-10 18:02:20.994984 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 18:02:21.004073 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 18:02:21.009919 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 18:02:21.011798 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 18:02:21.017862 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 18:02:21.021771 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-10 19:19:45.286306 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-10 19:55:46.726578 INFO pc_sandra: start detected
+2025-01-10 19:55:46.728714 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-10 19:55:46.729298 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-10 19:56:04.205817 INFO pc_marc: start detected
+2025-01-10 19:56:04.208734 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-10 19:56:04.209441 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-10 21:57:52.409647 INFO beamer: start detected
+2025-01-10 21:57:52.412289 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-10 21:57:52.413500 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-10 22:00:24.255833 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-10 23:21:08.045111 INFO pc_marc: stop detected
+2025-01-10 23:21:08.055660 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-10 23:21:08.058467 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-10 23:21:12.226452 INFO pc_sandra: stop detected
+2025-01-10 23:21:12.229485 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-10 23:21:12.232193 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-11 00:09:15.299792 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-11 00:56:51.800366 INFO pc_cassian: stop detected
+2025-01-11 00:56:51.803779 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 00:56:51.810299 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 00:56:51.816688 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 03:17:06.284828 INFO beamer: stop detected
+2025-01-11 03:17:06.295235 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-11 03:17:06.298502 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-11 03:40:35.567905 INFO trockner: start detected
+2025-01-11 03:40:35.569664 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-11 03:40:35.570988 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-11 03:40:35.574283 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-11 03:40:35.581241 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-11 03:40:35.585858 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-11 03:46:06.768624 INFO pc_kilian: start detected
+2025-01-11 03:46:06.771784 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-11 03:46:06.772321 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-11 03:51:16.789645 INFO pc_kilian: stop detected
+2025-01-11 03:51:16.793010 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-11 03:51:16.799636 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-11 06:44:28.152503 INFO trockner: stop detected
+2025-01-11 06:44:28.164681 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 06:44:28.181877 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 06:44:28.187449 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 06:44:28.193948 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 06:44:28.201805 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 06:44:28.211889 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 07:30:55.414900 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-11 07:51:01.617535 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-11 09:00:01.028269 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 51 %. Stop threshold: 55 %
+2025-01-11 10:36:09.521108 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-11 10:55:20.789728 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-11 11:38:09.182636 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-11 12:57:39.317950 INFO trockner: start detected
+2025-01-11 12:57:39.319317 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-11 12:57:39.319872 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-11 12:57:39.320958 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-11 12:57:39.325524 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-11 12:57:39.327760 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-11 13:31:58.589505 INFO pc_cassian: start detected
+2025-01-11 13:31:58.593581 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-11 13:31:58.596573 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-11 13:31:58.599037 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-11 13:34:28.582993 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-11 13:39:55.341379 INFO spulmaschine: start detected
+2025-01-11 13:39:55.342675 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-11 13:39:55.346261 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-11 14:00:53.106808 INFO pc_cassian: stop detected
+2025-01-11 14:00:53.113187 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 14:00:53.121810 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 14:00:53.127990 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 14:14:25.323562 INFO pc_cassian: start detected
+2025-01-11 14:14:25.324680 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-11 14:14:25.325210 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-11 14:14:25.329556 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-11 14:24:57.241960 INFO trockner: stop detected
+2025-01-11 14:24:57.253800 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 14:24:57.262660 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 14:24:57.269827 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 14:24:57.279736 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 14:24:57.285581 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 14:24:57.291735 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-11 15:11:23.870652 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-11 15:38:29.433612 INFO spulmaschine: stop detected
+2025-01-11 15:38:29.442766 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 15:38:29.448901 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 15:38:29.452997 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 15:38:29.457590 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 15:38:29.459309 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 15:38:29.462641 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-11 16:18:10.662725 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-11 18:54:48.413194 INFO pc_marc: start detected
+2025-01-11 18:54:48.417885 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-11 18:54:48.418704 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-11 19:23:00.989643 INFO pc_sandra: start detected
+2025-01-11 19:23:00.993949 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-11 19:23:00.996469 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-11 19:29:39.455611 INFO 3d_drucker: start detected
+2025-01-11 19:29:39.459121 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t 3d_drucker l��uft
+2025-01-11 19:29:39.463005 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t 3d_drucker l��uft
+2025-01-11 20:24:29.447114 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-11 20:31:44.131615 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-11 20:49:10.897209 INFO pc_kilian: start detected
+2025-01-11 20:49:10.900392 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-11 20:49:10.902764 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-11 21:04:54.828396 INFO pc_sandra: stop detected
+2025-01-11 21:04:54.830221 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-11 21:04:54.831708 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-11 21:05:07.401259 INFO pc_marc: stop detected
+2025-01-11 21:05:07.406761 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-11 21:05:07.409154 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-11 21:10:49.116670 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-11 21:19:38.088337 INFO pc_cassian: stop detected
+2025-01-11 21:19:38.093556 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 21:19:38.105458 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 21:19:38.106904 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-11 21:27:34.861236 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-11 21:31:21.011965 INFO 3d_drucker: stop detected
+2025-01-11 21:31:21.017712 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-11 21:31:21.023313 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t 3d_drucker ist nicht mehr aktiv
+2025-01-11 21:50:47.486087 INFO beamer: start detected
+2025-01-11 21:50:47.489738 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-11 21:50:47.490387 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-12 00:27:36.602870 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 60 %. Start threshold: 60 %
+2025-01-12 00:53:12.443440 INFO beamer: stop detected
+2025-01-12 00:53:12.449607 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-12 00:53:12.456794 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-12 03:04:35.909188 INFO pc_kilian: stop detected
+2025-01-12 03:04:35.914072 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 03:04:35.917764 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 03:58:39.389805 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 83 %. Start threshold: 60 %
+2025-01-12 04:52:06.156654 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-12 06:37:47.434664 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 61 %. Start threshold: 60 %
+2025-01-12 08:28:53.714096 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 55 %. Stop threshold: 55 %
+2025-01-12 08:54:48.363766 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 54 %. Stop threshold: 55 %
+2025-01-12 09:00:01.021013 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 45 %. Stop threshold: 55 %
+2025-01-12 12:00:16.668528 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-12 12:00:16.787799 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-12 12:00:16.809576 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 56 %. Start threshold: 55 %
+2025-01-12 12:00:16.826437 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-12 12:00:16.860829 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-12 12:00:16.876256 INFO airexchange_yavanna: AirExchange started fan airexchange_yavanna at rel. humidity of 51 %. Start threshold: 55 %
+2025-01-12 12:00:16.899668 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-12 12:00:16.945547 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 57 %. Start threshold: 55 %
+2025-01-12 12:00:16.961463 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-12 12:00:16.989221 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-12 12:00:17.019941 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-12 12:00:17.035398 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-12 12:00:17.070038 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-12 12:01:49.002832 INFO airexchange_yavanna: AirExchange stopped fan airexchange_yavanna at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-12 12:22:24.758276 INFO waschmaschine_oma: start detected
+2025-01-12 12:22:24.759284 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-12 12:22:24.759782 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t waschmaschine_oma l��uft
+2025-01-12 12:33:27.069116 INFO airexchange_wohnzimmer_eg: AirExchange started fan airexchange_wohnzimmer_eg at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-12 12:51:37.171144 INFO spulmaschine: start detected
+2025-01-12 12:51:37.173845 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t spulmaschine l��uft
+2025-01-12 12:51:37.175909 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t spulmaschine l��uft
+2025-01-12 12:58:32.769033 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-12 12:58:32.800732 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-12 12:58:32.834217 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-12 12:58:32.860452 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-12 14:28:55.461695 INFO waschmaschine_oma: stop detected
+2025-01-12 14:28:55.471481 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-12 14:28:55.473265 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-12 14:28:55.479966 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t waschmaschine_oma ist nicht mehr aktiv
+2025-01-12 14:34:12.778784 INFO trockner_oma: start detected
+2025-01-12 14:34:12.781655 INFO notifyer: No target alexa on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-12 14:34:12.782232 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t trockner_oma l��uft
+2025-01-12 14:51:00.224128 INFO spulmaschine: stop detected
+2025-01-12 14:51:00.246277 INFO notifyer: Call out to [ buro cassian wohnzimmer kilian] on urgency: 3 with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 14:51:00.261552 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 14:51:00.266326 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 14:51:00.274083 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 14:51:00.277480 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 14:51:00.282602 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t spulmaschine ist nicht mehr aktiv
+2025-01-12 15:59:14.088633 INFO pc_cassian: start detected
+2025-01-12 15:59:14.092489 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-12 15:59:14.093070 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-12 15:59:14.096793 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-12 16:14:41.444004 INFO pc_kilian: start detected
+2025-01-12 16:14:41.448397 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-12 16:14:41.451122 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-12 16:21:41.692994 INFO pc_cassian: stop detected
+2025-01-12 16:21:41.697936 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 16:21:41.705673 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 16:21:41.709877 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 16:31:38.723564 INFO pc_cassian: start detected
+2025-01-12 16:31:38.728626 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_cassian l��uft
+2025-01-12 16:31:38.729678 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian l��uft
+2025-01-12 16:31:38.733594 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian l��uft
+2025-01-12 16:34:01.927218 INFO trockner_oma: stop detected
+2025-01-12 16:34:01.931667 INFO notifyer: Call out to [ oma] on urgency: 3 with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-12 16:34:01.933953 INFO notifyer: Sending notification to mobile_app_handy_angela with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-12 16:34:01.935778 INFO notifyer: Sending notification to mobile_app_handy_manfred with message: Das Ger��t trockner_oma ist nicht mehr aktiv
+2025-01-12 17:03:27.339382 INFO pc_sandra: start detected
+2025-01-12 17:03:27.342479 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_sandra l��uft
+2025-01-12 17:03:27.345151 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_sandra l��uft
+2025-01-12 17:03:46.971286 INFO pc_marc: start detected
+2025-01-12 17:03:46.974851 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-12 17:03:46.977342 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-12 17:06:23.461502 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 58 %. Start threshold: 55 %
+2025-01-12 17:06:26.863037 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 57 %. Start threshold: 55 %
+2025-01-12 17:06:26.955117 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 54 %. Start threshold: 55 %
+2025-01-12 17:08:48.779158 INFO pc_kilian: stop detected
+2025-01-12 17:08:48.782885 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 17:08:48.785622 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 17:09:02.813923 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 57 %. Start threshold: 55 %
+2025-01-12 17:09:08.968280 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 54 %. Start threshold: 55 %
+2025-01-12 17:18:22.993144 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 54 %. Start threshold: 55 %
+2025-01-12 17:18:23.049738 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 57 %. Start threshold: 55 %
+2025-01-12 18:15:44.990698 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-12 18:41:36.952660 INFO waschmaschine: start detected
+2025-01-12 18:41:36.955957 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-12 18:41:36.959900 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-12 18:41:36.964116 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-12 18:41:36.967738 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-12 18:41:36.973585 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-12 19:45:52.684337 INFO pc_kilian: start detected
+2025-01-12 19:45:52.686122 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-12 19:45:52.686613 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-12 20:04:24.617725 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 56 %. Start threshold: 55 %
+2025-01-12 20:12:50.542790 INFO waschmaschine: stop detected
+2025-01-12 20:12:50.562138 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:12:50.574542 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:12:50.580994 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:12:50.588865 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:12:50.593133 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:12:50.606181 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-12 20:32:17.899995 INFO pc_kilian: stop detected
+2025-01-12 20:32:17.904013 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 20:32:17.906667 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_kilian ist nicht mehr aktiv
+2025-01-12 20:33:36.124602 INFO beamer: start detected
+2025-01-12 20:33:36.131012 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t beamer l��uft
+2025-01-12 20:33:36.132328 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t beamer l��uft
+2025-01-12 20:40:16.387278 INFO pc_cassian: stop detected
+2025-01-12 20:40:16.397779 INFO notifyer: Call out to [ buro wohnzimmer] on urgency: 3 with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 20:40:16.407674 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 20:40:16.411009 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t pc_cassian ist nicht mehr aktiv
+2025-01-12 21:03:42.731587 INFO pc_sandra: stop detected
+2025-01-12 21:03:42.737764 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-12 21:03:42.739897 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_sandra ist nicht mehr aktiv
+2025-01-12 21:03:54.711788 INFO pc_marc: stop detected
+2025-01-12 21:03:54.719787 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-12 21:03:54.723963 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t pc_marc ist nicht mehr aktiv
+2025-01-12 21:10:49.041200 INFO trockner: start detected
+2025-01-12 21:10:49.043055 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-12 21:10:49.043729 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-12 21:10:49.045373 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-12 21:10:49.047467 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-12 21:10:49.053678 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-12 21:17:05.133612 INFO pc_kilian: start detected
+2025-01-12 21:17:05.135405 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-12 21:17:05.135919 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-12 21:35:48.934457 INFO waschmaschine: start detected
+2025-01-12 21:35:48.936282 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t waschmaschine l��uft
+2025-01-12 21:35:48.938367 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine l��uft
+2025-01-12 21:35:48.945344 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine l��uft
+2025-01-12 21:35:48.949376 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine l��uft
+2025-01-12 21:35:48.958815 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine l��uft
+2025-01-12 22:14:51.028964 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 49 %. Stop threshold: 50 %
+2025-01-12 23:43:55.719478 INFO trockner: stop detected
+2025-01-12 23:43:55.734784 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-12 23:43:55.738981 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-12 23:43:55.744569 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-12 23:43:55.753831 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-12 23:43:55.755914 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-12 23:43:55.764748 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 00:03:21.730186 INFO waschmaschine: stop detected
+2025-01-13 00:03:21.739337 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:03:21.747533 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:03:21.752669 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:03:21.754744 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:03:21.760037 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:03:21.764636 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t waschmaschine ist nicht mehr aktiv
+2025-01-13 00:26:46.348220 INFO beamer: stop detected
+2025-01-13 00:26:46.350577 INFO notifyer: Call out to [ buro] on urgency: 3 with message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-13 00:26:46.355304 INFO notifyer: No target mobile on urgency: 3 found for message: Das Ger��t beamer ist nicht mehr aktiv
+2025-01-13 01:02:36.700710 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-13 01:54:00.930961 INFO trockner: start detected
+2025-01-13 01:54:00.932415 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t trockner l��uft
+2025-01-13 01:54:00.933112 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner l��uft
+2025-01-13 01:54:00.935724 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner l��uft
+2025-01-13 01:54:00.943400 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner l��uft
+2025-01-13 01:54:00.946159 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner l��uft
+2025-01-13 02:12:36.038998 INFO airexchange_wohnzimmer_og: AirExchange stopped fan airexchange_wohnzimmer_og at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-13 03:26:04.945132 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-13 04:43:33.139263 INFO trockner: stop detected
+2025-01-13 04:43:33.150660 INFO notifyer: Call out to [ buro wohnzimmer kilian] on urgency: 3 with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 04:43:33.158649 INFO notifyer: Sending notification to mobile_app_handy_marc with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 04:43:33.168106 INFO notifyer: Sending notification to mobile_app_handy_sandra with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 04:43:33.170777 INFO notifyer: Sending notification to mobile_app_handy_yavanna with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 04:43:33.187154 INFO notifyer: Sending notification to mobile_app_handy_kilian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 04:43:33.192624 INFO notifyer: Sending notification to mobile_app_handy_cassian with message: Das Ger��t trockner ist nicht mehr aktiv
+2025-01-13 06:00:00.023743 INFO airexchange_buro: AirExchange started fan airexchange_buro at rel. humidity of 48 %. Start threshold: 55 %
+2025-01-13 06:24:20.495787 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-13 06:56:42.094478 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-13 07:00:01.018970 INFO airexchange_buro: AirExchange stopped fan airexchange_buro at rel. humidity of 48 %. Stop threshold: 50 %
+2025-01-13 07:36:04.060167 INFO airexchange_schlafzimmerr_eg: AirExchange stopped fan airexchange_schlafzimmerr_eg at rel. humidity of 48 %. Stop threshold: 50 %
+2025-01-13 08:00:00.185399 INFO airexchange_yavanna: AirExchange started fan airexchange_yavanna at rel. humidity of 50 %. Start threshold: 55 %
+2025-01-13 08:00:00.187765 INFO airexchange_doran: AirExchange started fan airexchange_doran at rel. humidity of 43 %. Start threshold: 55 %
+2025-01-13 08:00:00.195900 INFO airexchange_cassian: AirExchange started fan airexchange_cassian at rel. humidity of 39 %. Start threshold: 55 %
+2025-01-13 08:20:24.880521 INFO airexchange_schlafzimmerr_eg: AirExchange started fan airexchange_schlafzimmerr_eg at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-13 08:21:03.067898 INFO airexchange_schlafzimmer_og: AirExchange stopped fan airexchange_schlafzimmer_og at rel. humidity of 49 %. Stop threshold: 50 %
+2025-01-13 08:55:32.715157 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 55 %. Start threshold: 55 %
+2025-01-13 09:00:01.105913 INFO airexchange_cassian: AirExchange stopped fan airexchange_cassian at rel. humidity of 38 %. Stop threshold: 50 %
+2025-01-13 09:00:01.128106 INFO airexchange_wohnzimmer_eg: AirExchange stopped fan airexchange_wohnzimmer_eg at rel. humidity of 47 %. Stop threshold: 50 %
+2025-01-13 09:00:01.138766 INFO airexchange_doran: AirExchange stopped fan airexchange_doran at rel. humidity of 42 %. Stop threshold: 50 %
+2025-01-13 09:00:01.142640 INFO airexchange_yavanna: AirExchange stopped fan airexchange_yavanna at rel. humidity of 48 %. Stop threshold: 50 %
+2025-01-13 09:03:40.083884 INFO pc_marc: start detected
+2025-01-13 09:03:40.088788 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-13 09:03:40.089307 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-13 09:21:47.935226 INFO airexchange_kilian: AirExchange stopped fan airexchange_kilian at rel. humidity of 50 %. Stop threshold: 50 %
+2025-01-13 10:42:05.357637 INFO schuhtrockner: App schuhtrockner initialized
+2025-01-13 10:42:05.380306 WARNING schuhtrockner: schuhtrockner: Entity input_boolean.schuhtrockner not found in namespace default
+2025-01-13 10:42:05.396509 INFO spulmaschine: App spulmaschine initialized
+2025-01-13 10:42:05.397245 WARNING spulmaschine: spulmaschine: Entity input_boolean.spulmaschine not found in namespace default
+2025-01-13 10:42:05.412584 INFO waschmaschine_oma: App waschmaschine_oma initialized
+2025-01-13 10:42:05.412973 WARNING waschmaschine_oma: waschmaschine_oma: Entity input_boolean.waschmaschine_oma not found in namespace default
+2025-01-13 10:42:05.427411 INFO waschmaschine: App waschmaschine initialized
+2025-01-13 10:42:05.427831 WARNING waschmaschine: waschmaschine: Entity input_boolean.waschmaschine not found in namespace default
+2025-01-13 10:42:05.442567 INFO trockner_oma: App trockner_oma initialized
+2025-01-13 10:42:05.443263 WARNING trockner_oma: trockner_oma: Entity input_boolean.trockner_oma not found in namespace default
+2025-01-13 10:42:05.455310 INFO trockner: App trockner initialized
+2025-01-13 10:42:05.455788 WARNING trockner: trockner: Entity input_boolean.trockner not found in namespace default
+2025-01-13 10:42:05.470675 INFO pc_cassian: App pc_cassian initialized
+2025-01-13 10:42:05.471255 WARNING pc_cassian: pc_cassian: Entity input_boolean.pc_cassian not found in namespace default
+2025-01-13 10:42:05.484895 INFO pc_doran: App pc_doran initialized
+2025-01-13 10:42:05.485303 WARNING pc_doran: pc_doran: Entity input_boolean.pc_doran not found in namespace default
+2025-01-13 10:42:05.499008 INFO pc_kilian: App pc_kilian initialized
+2025-01-13 10:42:05.499597 WARNING pc_kilian: pc_kilian: Entity input_boolean.pc_kilian not found in namespace default
+2025-01-13 10:42:05.519167 INFO pc_sandra: App pc_sandra initialized
+2025-01-13 10:42:05.519625 WARNING pc_sandra: pc_sandra: Entity input_boolean.pc_sandra not found in namespace default
+2025-01-13 10:42:05.533543 INFO pc_marc: App pc_marc initialized
+2025-01-13 10:42:05.534502 WARNING pc_marc: pc_marc: Entity input_boolean.pc_marc not found in namespace default
+2025-01-13 10:42:05.548565 INFO beamer: App beamer initialized
+2025-01-13 10:42:05.548988 WARNING beamer: beamer: Entity input_boolean.beamer not found in namespace default
+2025-01-13 10:42:05.560952 INFO 3d_drucker: App 3d_drucker initialized
+2025-01-13 10:42:05.562419 WARNING 3d_drucker: 3d_drucker: Entity input_boolean.3d_drucker not found in namespace default
+2025-01-13 10:42:05.595089 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-13 10:42:05.598659 WARNING airexchange_wohnzimmer_eg: airexchange_wohnzimmer_eg: Entity input_boolean.airexchange_wohnzimmer_eg not found in namespace default
+2025-01-13 10:42:05.833808 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-13 10:42:05.834534 WARNING airexchange_schlafzimmerr_eg: airexchange_schlafzimmerr_eg: Entity input_boolean.airexchange_schlafzimmer_eg not found in namespace default
+2025-01-13 10:42:05.860132 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-13 10:42:05.861860 WARNING airexchange_buro: airexchange_buro: Entity input_boolean.airexchange_buro not found in namespace default
+2025-01-13 10:42:05.894636 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-13 10:42:05.895308 WARNING airexchange_yavanna: airexchange_yavanna: Entity input_boolean.airexchange_yavanna not found in namespace default
+2025-01-13 10:42:05.916857 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-13 10:42:05.917387 WARNING airexchange_schlafzimmer_og: airexchange_schlafzimmer_og: Entity input_boolean.airexchange_schlafzimmer_og not found in namespace default
+2025-01-13 10:42:05.946146 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-13 10:42:05.946670 WARNING airexchange_kilian: airexchange_kilian: Entity input_boolean.airexchange_kilian not found in namespace default
+2025-01-13 10:42:05.968515 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-13 10:42:05.969106 WARNING airexchange_wohnzimmer_og: airexchange_wohnzimmer_og: Entity input_boolean.airexchange_wohnzimmer_og not found in namespace default
+2025-01-13 10:42:05.987993 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-13 10:42:05.989913 WARNING airexchange_cassian: airexchange_cassian: Entity input_boolean.airexchange_cassian not found in namespace default
+2025-01-13 10:42:06.047763 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-13 10:42:06.048291 WARNING airexchange_doran: airexchange_doran: Entity input_boolean.airexchange_doran not found in namespace default
+2025-01-13 10:44:05.516420 INFO pc_kilian: start detected
+2025-01-13 10:44:05.927343 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_kilian l��uft
+2025-01-13 10:44:05.928384 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_kilian l��uft
+2025-01-13 10:44:32.045471 INFO pc_marc: start detected
+2025-01-13 10:44:32.047593 INFO notifyer: Call out to [ buro] on urgency: 1 with message: Das Ger��t pc_marc l��uft
+2025-01-13 10:44:32.049921 INFO notifyer: No target mobile on urgency: 1 found for message: Das Ger��t pc_marc l��uft
+2025-01-13 10:52:02.796088 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-13 10:52:02.846106 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-13 10:52:02.894773 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-13 10:52:02.923116 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-13 10:52:02.958624 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-13 10:52:02.972082 INFO airexchange_schlafzimmer_og: AirExchange started fan airexchange_schlafzimmer_og at rel. humidity of 53 %. Start threshold: 55 %
+2025-01-13 10:52:02.978377 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-13 10:52:03.001800 INFO airexchange_kilian: AirExchange started fan airexchange_kilian at rel. humidity of 54 %. Start threshold: 55 %
+2025-01-13 10:52:03.007055 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-13 10:52:03.033145 INFO airexchange_wohnzimmer_og: AirExchange started fan airexchange_wohnzimmer_og at rel. humidity of 51 %. Start threshold: 55 %
+2025-01-13 10:52:03.043741 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-13 10:52:03.077519 INFO airexchange_doran: App airexchange_doran initialized
+2025-01-13 10:59:34.222325 INFO airexchange_wohnzimmer_eg: App airexchange_wohnzimmer_eg initialized
+2025-01-13 10:59:34.261674 INFO airexchange_schlafzimmerr_eg: App airexchange_schlafzimmerr_eg initialized
+2025-01-13 10:59:34.274116 INFO airexchange_buro: App airexchange_buro initialized
+2025-01-13 10:59:34.314183 INFO airexchange_yavanna: App airexchange_yavanna initialized
+2025-01-13 10:59:34.351149 INFO airexchange_schlafzimmer_og: App airexchange_schlafzimmer_og initialized
+2025-01-13 10:59:34.368685 INFO airexchange_kilian: App airexchange_kilian initialized
+2025-01-13 10:59:34.385453 INFO airexchange_wohnzimmer_og: App airexchange_wohnzimmer_og initialized
+2025-01-13 10:59:34.409675 INFO airexchange_cassian: App airexchange_cassian initialized
+2025-01-13 10:59:34.436624 INFO airexchange_doran: App airexchange_doran initialized
