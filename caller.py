@@ -10,6 +10,6 @@ class Caller(hass.Hass):
 
   def initialize(self):
     MyApp = self.get_app("notifyer")
-    #MyApp.notify(message="Leder", tag="spulmaschine",urgency=2)
+    MyApp.notify(message="Test", tag="spulmaschine",urgency=2)
     
 

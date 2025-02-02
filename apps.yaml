@@ -118,7 +118,7 @@ waschmaschine_oma:
   switch_entity: switch.waschmaschine_oma
   #Power level(W) and time(sec) to concider device active:
   start_power: 20
-  start_timer: 300
+  start_timer: 120
   #Power level(W) and time(sec) to concider device inactive:
   stop_power: 30
   stop_timer: 300

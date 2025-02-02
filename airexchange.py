@@ -23,11 +23,7 @@ class AirExchange(hass.Hass):
         #register listener
         if self.active == True:
             #get intention boolean available
-            try:
-                self.set_state(self.args["status_input_boolean"], state="on")
-            except:
-                #second time it will exist in HA at any case
-                self.set_state(self.args["status_input_boolean"], state="on")
+            self.set_state(self.args["status_input_boolean"], state="on")
             self.input_boolean_switch = self.get_entity(self.args["status_input_boolean"])
             #initially start airex
             self.air_control()
@@ -41,11 +37,16 @@ class AirExchange(hass.Hass):
     
 
     def air_control(self, *args, **kwargs):
-        if self.now_is_between(self.active_from, self.active_to) or float(self.humidity_sensor.state) >= self.start_humidity:
+        try:
+            self.humidity = float(self.humidity_sensor.state)
+        except:
+            self.humidity = 100.0
+
+        if self.now_is_between(self.active_from, self.active_to) or self.humidity >= self.start_humidity:
             self.input_boolean_switch.set_state(state="on")
             
             
-        if not self.now_is_between(self.active_from, self.active_to) and float(self.humidity_sensor.state) <= self.stop_humidity:
+        if not self.now_is_between(self.active_from, self.active_to) and self.humidity <= self.stop_humidity:
             self.input_boolean_switch.set_state(state="off") 
             
         if self.input_boolean_switch.state == "on" and self.fan_switch.state == "off":
